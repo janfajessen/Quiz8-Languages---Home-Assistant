@@ -196,7 +196,7 @@ The `language_rounds` sensor is the data source for the companion Lovelace card.
 ---
 
 
-*If this integration is useful to you, consider giving it a ⭐ on GitHub.*
+*If this integration or card is useful to you, consider giving it a ⭐ on GitHub.*
 Or consider supporting development!
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)
