@@ -1860,8 +1860,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_097",
-      "word": "putzen",
+      "id": "pl_B1_051",
+      "word": "czyścić",
       "transliteration": null,
       "translations": {
         "es": "limpiar",
@@ -1896,10 +1896,9 @@
       "category": "house",
       "pos": "verb"
     },
-  
     {
-      "id": "pl_B1_101",
-      "word": "Haus",
+      "id": "pl_B1_052",
+      "word": "dom",
       "transliteration": null,
       "translations": {
         "es": "casa",
@@ -1935,8 +1934,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_102",
-      "word": "Wohnung",
+      "id": "pl_B1_053",
+      "word": "mieszkanie",
       "transliteration": null,
       "translations": {
         "es": "apartamento",
@@ -1973,8 +1972,8 @@
     },
  
     {
-      "id": "pl_B1_104",
-      "word": "Tisch",
+      "id": "pl_B1_054",
+      "word": "stół",
       "transliteration": null,
       "translations": {
         "es": "mesa",
@@ -2010,8 +2009,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_105",
-      "word": "Stuhl",
+      "id": "pl_B1_055",
+      "word": "krzesło",
       "transliteration": null,
       "translations": {
         "es": "silla",
@@ -2047,8 +2046,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_106",
-      "word": "Fenster",
+      "id": "pl_B1_056",
+      "word": "okno",
       "transliteration": null,
       "translations": {
         "es": "ventana",
@@ -2084,8 +2083,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_107",
-      "word": "Tür",
+      "id": "pl_B1_057",
+      "word": "drzwi",
       "transliteration": null,
       "translations": {
         "es": "puerta",
@@ -2121,8 +2120,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_108",
-      "word": "Küche",
+      "id": "pl_B1_058",
+      "word": "kuchnia",
       "transliteration": null,
       "translations": {
         "es": "cocina",
@@ -2158,8 +2157,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_109",
-      "word": "Bad",
+      "id": "pl_B1_059",
+      "word": "łazienka",
       "transliteration": null,
       "translations": {
         "es": "baño",
@@ -2195,8 +2194,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_110",
-      "word": "Bett",
+      "id": "pl_B1_060",
+      "word": "łóżko",
       "transliteration": null,
       "translations": {
         "es": "cama",
@@ -2232,8 +2231,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_111",
-      "word": "Garten",
+      "id": "pl_B1_061",
+      "word": "ogród",
       "transliteration": null,
       "translations": {
         "es": "jardín",
@@ -2269,8 +2268,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_113",
-      "word": "Auto",
+      "id": "pl_B1_062",
+      "word": "samochód",
       "transliteration": null,
       "translations": {
         "es": "coche",
@@ -2308,8 +2307,8 @@
     
     
     {
-      "id": "pl_B1_116",
-      "word": "Bus",
+      "id": "pl_B1_063",
+      "word": "autobus",
       "transliteration": null,
       "translations": {
         "es": "autobús",
@@ -2345,8 +2344,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_117",
-      "word": "Zug",
+      "id": "pl_B1_064",
+      "word": "pociąg",
       "transliteration": null,
       "translations": {
         "es": "tren",
@@ -2382,8 +2381,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_119",
-      "word": "Reise",
+      "id": "pl_B1_065",
+      "word": "podróż",
       "transliteration": null,
       "translations": {
         "es": "viaje",
@@ -2419,8 +2418,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_120",
-      "word": "Urlaub",
+      "id": "pl_B1_066",
+      "word": "urlop",
       "transliteration": null,
       "translations": {
         "es": "vacaciones",
@@ -2456,8 +2455,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_122",
-      "word": "Reservierung",
+      "id": "pl_B1_067",
+      "word": "rezerwacja",
       "transliteration": null,
       "translations": {
         "es": "reserva",
@@ -2493,8 +2492,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_123",
-      "word": "Geld",
+      "id": "pl_B1_068",
+      "word": "pieniądze",
       "transliteration": null,
       "translations": {
         "es": "dinero",
@@ -2530,8 +2529,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_124",
-      "word": "Preis",
+      "id": "pl_B1_069",
+      "word": "cena",
       "transliteration": null,
       "translations": {
         "es": "precio",
@@ -2567,8 +2566,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_125",
-      "word": "Arbeit",
+      "id": "pl_B1_070",
+      "word": "praca",
       "transliteration": null,
       "translations": {
         "es": "trabajo",
@@ -2604,8 +2603,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_242",
-      "word": "Job",
+      "id": "pl_B1_071",
+      "word":  "praca¹",
       "transliteration": null,
       "translations": {
         "es": "trabajo¹",
@@ -2641,8 +2640,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_131",
-      "word": "Besprechung",
+      "id": "pl_B1_072",
+      "word": "spotkanie",
       "transliteration": null,
       "translations": {
         "es": "reunión",
@@ -2678,8 +2677,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_132",
-      "word": "Termin",
+      "id": "pl_B1_073",
+      "word": "termin",
       "transliteration": null,
       "translations": {
         "es": "cita",
@@ -2715,8 +2714,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_133",
-      "word": "Projekt",
+      "id": "pl_B1_074",
+      "word": "projekt",
       "transliteration": null,
       "translations": {
         "es": "proyecto",
@@ -2752,8 +2751,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_134",
-      "word": "Erfolg",
+      "id": "pl_B1_075",
+      "word": "sukces",
       "transliteration": null,
       "translations": {
         "es": "éxito",
@@ -2789,8 +2788,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_135",
-      "word": "Erfahrung",
+      "id": "pl_B1_076",
+      "word": "doświadczenie",
       "transliteration": null,
       "translations": {
         "es": "experiencia",
@@ -2826,8 +2825,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_136",
-      "word": "Fähigkeit",
+      "id": "pl_B1_077",
+      "word": "zdolność",
       "transliteration": null,
       "translations": {
         "es": "habilidad",
@@ -2863,8 +2862,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_137",
-      "word": "Entscheidung",
+      "id": "pl_B1_078",
+      "word": "decyzja",
       "transliteration": null,
       "translations": {
         "es": "decisión",
@@ -2900,8 +2899,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_138",
-      "word": "Plan",
+      "id": "pl_B1_079",
+      "word": "plan",
       "transliteration": null,
       "translations": {
         "es": "plan",
@@ -2937,8 +2936,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_139",
-      "word": "Ziel",
+      "id": "pl_B1_080",
+      "word": "cel",
       "transliteration": null,
       "translations": {
         "es": "objetivo",
@@ -2974,8 +2973,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_140",
-      "word": "Problem",
+      "id": "pl_B1_081",
+      "word": "problem",
       "transliteration": null,
       "translations": {
         "es": "problema",
@@ -3011,8 +3010,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_143",
-      "word": "möglich",
+      "id": "pl_B1_082",
+      "word": "możliwy",
       "transliteration": null,
       "translations": {
         "es": "posible",
@@ -3048,8 +3047,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_224",
-      "word": "schwierig",
+      "id": "pl_B1_083",
+      "word": "trudny",
       "transliteration": null,
       "translations": {
         "es": "difícil",
@@ -3085,8 +3084,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_145",
-      "word": "schwer",
+      "id": "pl_B1_084",
+      "word": "ciężki/trudny",
       "transliteration": null,
       "translations": {
         "es": "pesado/difícil",
@@ -3122,8 +3121,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_149",
-      "word": "groß",
+      "id": "pl_B1_085",
+      "word": "duży",
       "transliteration": null,
       "translations": {
         "es": "grande",
@@ -3159,8 +3158,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_150",
-      "word": "klein",
+      "id": "pl_B1_086",
+      "word": "mały",
       "transliteration": null,
       "translations": {
         "es": "pequeño",
@@ -3196,8 +3195,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_152",
-      "word": "reden",
+      "id": "pl_B1_087",
+      "word": "rozmawiać",
       "transliteration": null,
       "translations": {
         "es": "charlar/hablar",
@@ -3233,8 +3232,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_159",
-      "word": "denken",
+      "id": "pl_B1_088",
+      "word": "myśleć",
       "transliteration": null,
       "translations": {
         "es": "pensar",
@@ -3271,8 +3270,8 @@
     },
 
     {
-      "id": "pl_B1_162",
-      "word": "wünschen",
+      "id": "pl_B1_089",
+      "word": "życzyć",
       "transliteration": null,
       "translations": {
         "es": "desear",
@@ -3309,8 +3308,8 @@
     },
     
     {
-      "id": "pl_B1_164",
-      "word": "zeigen",
+      "id": "pl_B1_090",
+      "word": "pokazywać",
       "transliteration": null,
       "translations": {
         "es": "mostrar",
@@ -3346,8 +3345,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_165",
-      "word": "öffnen",
+      "id": "pl_B1_091",
+      "word": "otwierać",
       "transliteration": null,
       "translations": {
         "es": "abrir",
@@ -3383,8 +3382,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_166",
-      "word": "schließen",
+      "id": "pl_B1_092",
+      "word": "zamykać",
       "transliteration": null,
       "translations": {
         "es": "cerrar",
@@ -3420,8 +3419,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_167",
-      "word": "beginnen",
+      "id": "pl_B1_093",
+      "word": "zaczynać",
       "transliteration": null,
       "translations": {
         "es": "empezar",
@@ -3457,8 +3456,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_168",
-      "word": "enden",
+      "id": "pl_B1_094",
+      "word": "kończyć",
       "transliteration": null,
       "translations": {
         "es": "terminar",
@@ -3494,8 +3493,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_170",
-      "word": "gehen",
+      "id": "pl_B1_095",
+      "word": "iść",
       "transliteration": null,
       "translations": {
         "es": "ir",
@@ -3531,8 +3530,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_171",
-      "word": "kommen",
+      "id": "pl_B1_096",
+      "word": "przyjść",
       "transliteration": null,
       "translations": {
         "es": "venir",
@@ -3568,8 +3567,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_172",
-      "word": "bringen",
+      "id": "pl_B1_097",
+      "word": "przynosić",
       "transliteration": null,
       "translations": {
         "es": "traer",
@@ -3605,8 +3604,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_173",
-      "word": "nehmen",
+      "id": "pl_B1_098",
+      "word": "brać",
       "transliteration": null,
       "translations": {
         "es": "tomar/agarrar",
@@ -3642,8 +3641,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_174",
-      "word": "geben",
+      "id": "pl_B1_099",
+      "word": "dawać",
       "transliteration": null,
       "translations": {
         "es": "dar",
@@ -3679,8 +3678,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_175",
-      "word": "bezahlen",
+      "id": "pl_B1_100",
+      "word": "płacić",
       "transliteration": null,
       "translations": {
         "es": "pagar",
@@ -3716,8 +3715,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_176",
-      "word": "essen",
+      "id": "pl_B1_101",
+      "word": "jeść",
       "transliteration": null,
       "translations": {
         "es": "comer",
@@ -3753,8 +3752,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_177",
-      "word": "trinken",
+      "id": "pl_B1_102",
+      "word": "pić",
       "transliteration": null,
       "translations": {
         "es": "beber",
@@ -3790,8 +3789,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_178",
-      "word": "kochen",
+      "id": "pl_B1_104",
+      "word": "gotować",
       "transliteration": null,
       "translations": {
         "es": "cocinar",
@@ -3827,8 +3826,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_179",
-      "word": "backen",
+      "id": "pl_B1_105",
+      "word": "piec",
       "transliteration": null,
       "translations": {
         "es": "hornear",
@@ -3864,8 +3863,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_180",
-      "word": "kaufen",
+      "id": "pl_B1_106",
+      "word": "kupować",
       "transliteration": null,
       "translations": {
         "es": "comprar",
@@ -3901,8 +3900,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_181",
-      "word": "verkaufen",
+      "id": "pl_B1_107",
+      "word": "sprzedawać",
       "transliteration": null,
       "translations": {
         "es": "vender",
@@ -3938,8 +3937,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_184",
-      "word": "verdienen",
+      "id": "pl_B1_108",
+      "word": "zarabiać",
       "transliteration": null,
       "translations": {
         "es": "ganar (dinero)",
@@ -3975,8 +3974,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_185",
-      "word": "suchen",
+      "id": "pl_B1_109",
+      "word": "szukać",
       "transliteration": null,
       "translations": {
         "es": "buscar",
@@ -4012,8 +4011,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_186",
-      "word": "finden",
+      "id": "pl_B1_110",
+      "word": "znaleźć",
       "transliteration": null,
       "translations": {
         "es": "encontrar",
@@ -4049,8 +4048,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_187",
-      "word": "verlieren",
+      "id": "pl_B1_111",
+      "word": "tracić",
       "transliteration": null,
       "translations": {
         "es": "perder",
@@ -4086,8 +4085,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_188",
-      "word": "bringen zurück",
+      "id": "pl_B1_112",
+      "word": "odnosić z powrotem",
       "transliteration": null,
       "translations": {
         "es": "devolver",
@@ -4123,8 +4122,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_189",
-      "word": "helfen",
+      "id": "pl_B1_113",
+      "word": "pomagać",
       "transliteration": null,
       "translations": {
         "es": "ayudar",
@@ -4160,8 +4159,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_161",
-      "word": "hoffen",
+      "id": "pl_B1_114",
+      "word": "mieć nadzieję",
       "transliteration": null,
       "translations": {
         "es": "esperar/desear",
@@ -4197,8 +4196,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_190",
-      "word": "warten",
+      "id": "pl_B1_115",
+      "word": "czekać",
       "transliteration": null,
       "translations": {
         "es": "esperar",
@@ -4234,8 +4233,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_191",
-      "word": "reisen",
+      "id": "pl_B1_116",
+      "word": "podróżować",
       "transliteration": null,
       "translations": {
         "es": "viajar",
@@ -4271,8 +4270,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_192",
-      "word": "fliegen",
+      "id": "pl_B1_117",
+      "word": "latać",
       "transliteration": null,
       "translations": {
         "es": "volar",
@@ -4308,8 +4307,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_193",
-      "word": "fahren",
+      "id": "pl_B1_118",
+      "word": "jechać",
       "transliteration": null,
       "translations": {
         "es": "conducir/ir en",
@@ -4346,8 +4345,8 @@
     },
 
     {
-      "id": "pl_B1_196",
-      "word": "einsteigen",
+      "id": "pl_B1_119",
+      "word": "wsiadać",
       "transliteration": null,
       "translations": {
         "es": "subir (transporte)",
@@ -4383,8 +4382,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_197",
-      "word": "aussteigen",
+      "id": "pl_B1_120",
+      "word": "wysiadać",
       "transliteration": null,
       "translations": {
         "es": "bajarse",
@@ -4420,8 +4419,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_198",
-      "word": "bleiben",
+      "id": "pl_B1_121",
+      "word": "zostać",
       "transliteration": null,
       "translations": {
         "es": "quedarse",
@@ -4457,8 +4456,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_199",
-      "word": "übernachten",
+      "id": "pl_B1_122",
+      "word": "nocować",
       "transliteration": null,
       "translations": {
         "es": "pasar la noche",
@@ -4494,8 +4493,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_200",
-      "word": "reservieren",
+      "id": "pl_B1_123",
+      "word": "rezerwować",
       "transliteration": null,
       "translations": {
         "es": "reservar",
@@ -4531,8 +4530,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_201",
-      "word": "Hotel",
+      "id": "pl_B1_124",
+      "word": "hotel",
       "transliteration": null,
       "translations": {
         "es": "hotel",
@@ -4568,8 +4567,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_202",
-      "word": "Zimmer",
+      "id": "pl_B1_125",
+      "word": "pokój",
       "transliteration": null,
       "translations": {
         "es": "habitación",
@@ -4605,8 +4604,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_203",
-      "word": "Schlüssel",
+      "id": "pl_B1_126",
+      "word": "klucz",
       "transliteration": null,
       "translations": {
         "es": "llave",
@@ -4642,8 +4641,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_204",
-      "word": "Rezeption",
+      "id": "pl_B1_127",
+      "word": "recepcja",
       "transliteration": null,
       "translations": {
         "es": "recepción",
@@ -4680,8 +4679,8 @@
     },
     
     {
-      "id": "pl_B1_208",
-      "word": "Flughafen",
+      "id": "pl_B1_128",
+      "word": "lotnisko",
       "transliteration": null,
       "translations": {
         "es": "aeropuerto",
@@ -4717,8 +4716,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_209",
-      "word": "Straße",
+      "id": "pl_B1_129",
+      "word": "ulica",
       "transliteration": null,
       "translations": {
         "es": "calle",
@@ -4754,8 +4753,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_210",
-      "word": "Stadt",
+      "id": "pl_B1_130",
+      "word": "miasto",
       "transliteration": null,
       "translations": {
         "es": "ciudad",
@@ -4791,8 +4790,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_211",
-      "word": "erklären",
+      "id": "pl_B1_131",
+      "word": "wyjaśniać",
       "transliteration": null,
       "translations": {
         "es": "explicar",
@@ -4828,8 +4827,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_212",
-      "word": "verstehen",
+      "id": "pl_B1_132",
+      "word": "rozumieć",
       "transliteration": null,
       "translations": {
         "es": "entender",
@@ -4865,8 +4864,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_213",
-      "word": "antworten",
+      "id": "pl_B1_133",
+      "word": "odpowiadać",
       "transliteration": null,
       "translations": {
         "es": "responder",
@@ -4902,8 +4901,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_214",
-      "word": "fragen",
+      "id": "pl_B1_134",
+      "word": "pytać",
       "transliteration": null,
       "translations": {
         "es": "preguntar",
@@ -4939,8 +4938,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_216",
-      "word": "glauben",
+      "id": "pl_B1_135",
+      "word": "wierzyć",
       "transliteration": null,
       "translations": {
         "es": "creer",
@@ -4976,8 +4975,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_217",
-      "word": "Meinung",
+      "id": "pl_B1_136",
+      "word": "opinia",
       "transliteration": null,
       "translations": {
         "es": "opinión",
@@ -5013,8 +5012,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_219",
-      "word": "Lösung",
+      "id": "pl_B1_137",
+      "word": "rozwiązanie",
       "transliteration": null,
       "translations": {
         "es": "solución",
@@ -5050,8 +5049,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_220",
-      "word": "Nachricht",
+      "id": "pl_B1_138",
+      "word": "wiadomość",
       "transliteration": null,
       "translations": {
         "es": "mensaje/noticia",
@@ -5087,8 +5086,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_221",
-      "word": "freundlich",
+      "id": "pl_B1_139",
+      "word": "przyjazny",
       "transliteration": null,
       "translations": {
         "es": "amable",
@@ -5124,8 +5123,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_222",
-      "word": "wichtig",
+      "id": "pl_B1_140",
+      "word": "ważny",
       "transliteration": null,
       "translations": {
         "es": "importante",
@@ -5161,8 +5160,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_223",
-      "word": "einfach",
+      "id": "pl_B1_141",
+      "word": "prosty",
       "transliteration": null,
       "translations": {
         "es": "fácil/simple",
@@ -5199,8 +5198,8 @@
     },
 
     {
-      "id": "pl_B1_225",
-      "word": "neu",
+      "id": "pl_B1_142",
+      "word": "nowy",
       "transliteration": null,
       "translations": {
         "es": "nuevo",
@@ -5236,8 +5235,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_226",
-      "word": "alt",
+      "id": "pl_B1_143",
+      "word": "stary",
       "transliteration": null,
       "translations": {
         "es": "viejo",
@@ -5273,8 +5272,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_227",
-      "word": "jung",
+      "id": "pl_B1_144",
+      "word": "młody",
       "transliteration": null,
       "translations": {
         "es": "joven",
@@ -5310,8 +5309,45 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_228",
-      "word": "schön",
+      "id": "pl_B1_145",
+      "word": "piękna",
+      "transliteration": null,
+      "translations": {
+        "es": "bonita",
+        "en": "beautiful",
+        "fr": "beau",
+        "de": "schöne",
+        "it": "bella",
+        "pt": "bonita",
+        "ru": "красивый",
+        "pl": "piękna",
+        "ca": "bonica",
+        "nl": "mooi",
+        "sv": "vacker",
+        "no": "vakker",
+        "da": "smuk",
+        "fi": "kaunis",
+        "cs": "krásný",
+        "ro": "frumos",
+        "hu": "szép",
+        "el": "όμορφος",
+        "uk": "гарний",
+        "tr": "güzel",
+        "eu": "eder",
+        "gl": "bonita",
+        "ar": "جميل",
+        "zh": "漂亮",
+        "ja": "美しい",
+        "ko": "아름다운",
+        "hi": "सुंदर",
+        "he": "יפה"
+      },
+      "category": "adjectives_basic",
+      "pos": "adjective"
+    },
+    {
+      "id": "pl_B1_146",
+      "word": "piękny",
       "transliteration": null,
       "translations": {
         "es": "bonito",
@@ -5347,8 +5383,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_229",
-      "word": "hässlich",
+      "id": "pl_B1_147",
+      "word": "brzydki",
       "transliteration": null,
       "translations": {
         "es": "feo",
@@ -5384,8 +5420,45 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_230",
-      "word": "reich",
+      "id": "pl_B1_148",
+      "word": "brzydka",
+      "transliteration": null,
+      "translations": {
+        "es": "fea",
+        "en": "ugly",
+        "fr": "laid",
+        "de": "hässlich",
+        "it": "brutta",
+        "pt": "feia",
+        "ru": "уродливый",
+        "pl": "brzydki",
+        "ca": "lleiga",
+        "nl": "lelijk",
+        "sv": "ful",
+        "no": "stygg",
+        "da": "grim",
+        "fi": "ruma",
+        "cs": "ošklivý",
+        "ro": "urât",
+        "hu": "csúnya",
+        "el": "άσχημος",
+        "uk": "потворний",
+        "tr": "çirkin",
+        "eu": "itsusi",
+        "gl": "fea",
+        "ar": "قبيح",
+        "zh": "丑",
+        "ja": "醜い",
+        "ko": "못생긴",
+        "hi": "बदसूरत",
+        "he": "מכוער"
+      },
+      "category": "adjectives_basic",
+      "pos": "adjective"
+    },
+    {
+      "id": "pl_B1_149",
+      "word": "bogaty",
       "transliteration": null,
       "translations": {
         "es": "rico",
@@ -5421,8 +5494,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_231",
-      "word": "arm",
+      "id": "pl_B1_150",
+      "word": "biedny",
       "transliteration": null,
       "translations": {
         "es": "pobre",
@@ -5458,8 +5531,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_232",
-      "word": "gesund",
+      "id": "pl_B1_151",
+      "word": "zdrowy",
       "transliteration": null,
       "translations": {
         "es": "saludable",
@@ -5495,8 +5568,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_233",
-      "word": "krank",
+      "id": "pl_B1_152",
+      "word": "chory",
       "transliteration": null,
       "translations": {
         "es": "enfermo",
@@ -5532,8 +5605,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_234",
-      "word": "Schmerz",
+      "id": "pl_B1_153",
+      "word": "ból",
       "transliteration": null,
       "translations": {
         "es": "dolor",
@@ -5569,8 +5642,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_235",
-      "word": "Arzt",
+      "id": "pl_B1_154",
+      "word": "lekarz",
       "transliteration": null,
       "translations": {
         "es": "médico",
@@ -5606,8 +5679,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_236",
-      "word": "Krankenhaus",
+      "id": "pl_B1_155",
+      "word": "szpital",
       "transliteration": null,
       "translations": {
         "es": "hospital",
@@ -5643,8 +5716,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_237",
-      "word": "Medizin",
+      "id": "pl_B1_156",
+      "word": "medycyna",
       "transliteration": null,
       "translations": {
         "es": "medicina",
@@ -5680,8 +5753,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_238",
-      "word": "Fieber",
+      "id": "pl_B1_157",
+      "word": "gorączka",
       "transliteration": null,
       "translations": {
         "es": "fiebre",
@@ -5717,8 +5790,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_239",
-      "word": "Husten",
+      "id": "pl_B1_158",
+      "word": "kaszel",
       "transliteration": null,
       "translations": {
         "es": "tos",
@@ -5754,8 +5827,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_240",
-      "word": "Apotheke",
+      "id": "pl_B1_159",
+      "word": "apteka",
       "transliteration": null,
       "translations": {
         "es": "farmacia",
@@ -5791,8 +5864,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_241",
-      "word": "arbeiten",
+      "id": "pl_B1_160",
+      "word": "pracować",
       "transliteration": null,
       "translations": {
         "es": "trabajar",
@@ -5827,10 +5900,9 @@
       "category": "work",
       "pos": "verb"
     },
-    
     {
-      "id": "pl_B1_243",
-      "word": "Chef",
+      "id": "pl_B1_161",
+      "word": "szef",
       "transliteration": null,
       "translations": {
         "es": "jefe",
@@ -5866,8 +5938,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_244",
-      "word": "Kollege",
+      "id": "pl_B1_162",
+      "word": "kolega",
       "transliteration": null,
       "translations": {
         "es": "compañero de trabajo/colega",
@@ -5903,8 +5975,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_245",
-      "word": "Büro",
+      "id": "pl_B1_163",
+      "word": "biuro",
       "transliteration": null,
       "translations": {
         "es": "oficina",
@@ -5940,8 +6012,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_246",
-      "word": "Gehalt",
+      "id": "pl_B1_164",
+      "word": "pensja",
       "transliteration": null,
       "translations": {
         "es": "salario",
@@ -5977,8 +6049,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_247",
-      "word": "Firma",
+      "id": "pl_B1_165",
+      "word": "firma",
       "transliteration": null,
       "translations": {
         "es": "empresa",
@@ -6014,8 +6086,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_248",
-      "word": "Beruf",
+      "id": "pl_B1_166",
+      "word": "zawód",
       "transliteration": null,
       "translations": {
         "es": "profesión",
@@ -6051,8 +6123,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_249",
-      "word": "Vereinbarung",
+      "id": "pl_B1_167",
+      "word": "umowa",
       "transliteration": null,
       "translations": {
         "es": "acuerdo",
@@ -6088,8 +6160,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_250",
-      "word": "kündigen",
+      "id": "pl_B1_168",
+      "word": "zwalniać/rezygnować",
       "transliteration": null,
       "translations": {
         "es": "renunciar/despedir",
@@ -6125,8 +6197,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_251",
-      "word": "lernen",
+      "id": "pl_B1_169",
+      "word": "uczyć się",
       "transliteration": null,
       "translations": {
         "es": "aprender",
@@ -6162,8 +6234,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_252",
-      "word": "lehren",
+      "id": "pl_B1_170",
+      "word": "uczyć",
       "transliteration": null,
       "translations": {
         "es": "enseñar",
@@ -6199,8 +6271,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_253",
-      "word": "studieren",
+      "id": "pl_B1_171",
+      "word": "studiować",
       "transliteration": null,
       "translations": {
         "es": "estudiar (universidad)",
@@ -6236,8 +6308,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_254",
-      "word": "Schule",
+      "id": "pl_B1_172",
+      "word": "szkoła",
       "transliteration": null,
       "translations": {
         "es": "escuela",
@@ -6273,8 +6345,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_255",
-      "word": "Lehrer",
+      "id": "pl_B1_173",
+      "word": "nauczyciel",
       "transliteration": null,
       "translations": {
         "es": "profesor",
@@ -6310,8 +6382,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_256",
-      "word": "Schüler",
+      "id": "pl_B1_174",
+      "word": "uczeń",
       "transliteration": null,
       "translations": {
         "es": "alumno",
@@ -6347,8 +6419,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_257",
-      "word": "Hausaufgabe",
+      "id": "pl_B1_175",
+      "word": "praca domowa",
       "transliteration": null,
       "translations": {
         "es": "deberes",
@@ -6384,8 +6456,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_258",
-      "word": "Prüfung",
+      "id": "pl_B1_176",
+      "word": "egzamin",
       "transliteration": null,
       "translations": {
         "es": "examen",
@@ -6421,8 +6493,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_259",
-      "word": "Notiz",
+      "id": "pl_B1_177",
+      "word": "notatka",
       "transliteration": null,
       "translations": {
         "es": "nota",
@@ -6458,8 +6530,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_260",
-      "word": "Wortschatz",
+      "id": "pl_B1_178",
+      "word": "słownictwo",
       "transliteration": null,
       "translations": {
         "es": "vocabulario",
@@ -6495,8 +6567,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_261",
-      "word": "sprechen",
+      "id": "pl_B1_179",
+      "word": "mówić",
       "transliteration": null,
       "translations": {
         "es": "hablar¹",
@@ -6532,8 +6604,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_262",
-      "word": "erzählen",
+      "id": "pl_B1_180",
+      "word": "opowiadać",
       "transliteration": null,
       "translations": {
         "es": "contar/relatar",
@@ -6569,8 +6641,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_263",
-      "word": "lesen",
+      "id": "pl_B1_181",
+      "word": "czytać",
       "transliteration": null,
       "translations": {
         "es": "leer",
@@ -6606,8 +6678,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_265",
-      "word": "hören",
+      "id": "pl_B1_182",
+      "word": "słuchać",
       "transliteration": null,
       "translations": {
         "es": "escuchar",
@@ -6643,8 +6715,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_266",
-      "word": "sehen",
+      "id": "pl_B1_183",
+      "word": "widzieć",
       "transliteration": null,
       "translations": {
         "es": "ver",
@@ -6680,8 +6752,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_267",
-      "word": "fühlen",
+      "id": "pl_B1_184",
+      "word": "czuć",
       "transliteration": null,
       "translations": {
         "es": "sentir",
@@ -6717,8 +6789,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_268",
-      "word": "arbeiten an",
+      "id": "pl_B1_185",
+      "word": "pracować nad",
       "transliteration": null,
       "translations": {
         "es": "trabajar en",
@@ -6754,8 +6826,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_269",
-      "word": "ausruhen",
+      "id": "pl_B1_186",
+      "word": "odpoczywać",
       "transliteration": null,
       "translations": {
         "es": "descansar",
@@ -6791,8 +6863,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_270",
-      "word": "bewegen",
+      "id": "pl_B1_187",
+      "word": "poruszać",
       "transliteration": null,
       "translations": {
         "es": "mover",
@@ -6828,8 +6900,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_271",
-      "word": "fahren",
+      "id": "pl_B1_188",
+      "word": "jechać/prowadzić",
       "transliteration": null,
       "translations": {
         "es": "conducir/viajar",
@@ -6865,8 +6937,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_272",
-      "word": "ankommen",
+      "id": "pl_B1_189",
+      "word": "przyjeżdżać",
       "transliteration": null,
       "translations": {
         "es": "llegar",
@@ -6902,8 +6974,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_273",
-      "word": "abfahren",
+      "id": "pl_B1_190",
+      "word": "odjeżdżać",
       "transliteration": null,
       "translations": {
         "es": "salir (transporte)",
@@ -6939,8 +7011,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_274",
-      "word": "Flugzeug",
+      "id": "pl_B1_191",
+      "word": "samolot",
       "transliteration": null,
       "translations": {
         "es": "avión",
@@ -6976,8 +7048,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_275",
-      "word": "Bahnhof",
+      "id": "pl_B1_192",
+      "word": "dworzec",
       "transliteration": null,
       "translations": {
         "es": "estación de tren",
@@ -7013,8 +7085,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_276",
-      "word": "Ticket",
+      "id": "pl_B1_193",
+      "word": "bilet",
       "transliteration": null,
       "translations": {
         "es": "billete",
@@ -7050,8 +7122,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_277",
-      "word": "Pass",
+      "id": "pl_B1_194",
+      "word": "paszport",
       "transliteration": null,
       "translations": {
         "es": "pasaporte",
@@ -7087,8 +7159,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_278",
-      "word": "Gepäck",
+      "id": "pl_B1_195",
+      "word": "bagaż",
       "transliteration": null,
       "translations": {
         "es": "equipaje",
