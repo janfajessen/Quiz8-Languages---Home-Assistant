@@ -1,0 +1,103 @@
+{
+  "title": "Quiz8 Languages",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Selecciona 8 idiomas para aprender",
+        "description": "Elige exactamente {count} idiomas de los {total} disponibles. La columna de la derecha mostrará las traducciones en el idioma de tu interfaz de Home Assistant.",
+        "data": {
+          "selected_languages": "Idiomas a aprender"
+        }
+      },
+      "level": {
+        "title": "Nivel para {language} ({code})",
+        "description": "Selecciona tu nivel MCER para {language}. Idioma {index} de {total}.\n\nNivel de inicio recomendado: **{recommended}**",
+        "data": {
+          "level": "Nivel MCER"
+        }
+      }
+    },
+    "error": {
+      "select_exactly_8": "Debes seleccionar exactamente 8 idiomas.",
+      "vocab_not_found": "No se encontró el archivo de vocabulario para este idioma/nivel."
+    },
+    "abort": {
+      "already_configured": "Quiz8 Languages ya está configurado."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Reconfigurar idiomas",
+        "description": "Elige exactamente {count} idiomas. Tu progreso se conservará.",
+        "data": {
+          "selected_languages": "Idiomas a aprender"
+        }
+      },
+      "level": {
+        "title": "Nivel para {language} ({code})",
+        "description": "Selecciona tu nivel MCER para {language}. Idioma {index} de {total}.\n\nNivel de inicio recomendado: **{recommended}**",
+        "data": {
+          "level": "Nivel MCER"
+        }
+      }
+    },
+    "error": {
+      "select_exactly_8": "Debes seleccionar exactamente 8 idiomas."
+    }
+  },
+  "services": {
+    "register_answer": {
+      "name": "Registrar Respuesta",
+      "description": "Registra una respuesta correcta o incorrecta para una palabra.",
+      "fields": {
+        "language": {
+          "name": "Idioma",
+          "description": "Código de idioma (ej. 'de', 'fr')"
+        },
+        "word_id": {
+          "name": "ID de palabra",
+          "description": "El ID de la palabra del vocabulario (ej. 'de_A1_001')"
+        },
+        "correct": {
+          "name": "Correcto",
+          "description": "Si la respuesta fue correcta (true/false)"
+        }
+      }
+    },
+    "complete_round": {
+      "name": "Completar Ronda",
+      "description": "Marca la ronda actual de 5 palabras como completada y avanza a la siguiente.",
+      "fields": {
+        "language": {
+          "name": "Idioma",
+          "description": "Código de idioma (ej. 'de', 'fr')"
+        }
+      }
+    },
+    "set_active_language": {
+      "name": "Establecer Idioma Activo",
+      "description": "Cambia el idioma activo que se está practicando.",
+      "fields": {
+        "language": {
+          "name": "Idioma",
+          "description": "Código de idioma (ej. 'de', 'fr')"
+        }
+      }
+    },
+    "mark_day_played": {
+      "name": "Marcar Día Jugado",
+      "description": "Marca hoy como día jugado para mantener la racha diaria."
+    },
+    "get_current_round": {
+      "name": "Obtener Ronda Actual",
+      "description": "Lanza un evento quiz8_languages_round_data con los pares de palabras de la ronda actual.",
+      "fields": {
+        "language": {
+          "name": "Idioma",
+          "description": "Código de idioma (ej. 'de', 'fr')"
+        }
+      }
+    }
+  }
+}
