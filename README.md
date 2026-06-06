@@ -1,7 +1,8 @@
 
 <div align="center">
 
-# Quiz8 Languages — Home Assistant Integration
+# Quiz8 Languages
+## Home Assistant Integration
 
 <img src="https://github.com/janfajessen/Quiz8-Languages---Home-Assistant/blob/c52439777b326e7db3e634f40903392aa059f3ba/custom_components/quiz8_languages/brand/icon%402x.png" width="25%"/>
 
