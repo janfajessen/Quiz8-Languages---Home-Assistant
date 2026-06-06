@@ -564,8 +564,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_020",
-      "word": "Grund",
+      "id": "pl_B1_016",
+      "word": "powód",
       "transliteration": null,
       "translations": {
         "es": "razón",
@@ -601,8 +601,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_021",
-      "word": "informieren",
+      "id": "pl_B1_017",
+      "word": "informować",
       "transliteration": null,
       "translations": {
         "es": "informar",
@@ -638,8 +638,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_022",
-      "word": "Interesse",
+      "id": "pl_B1_018",
+      "word": "zainteresowanie",
       "transliteration": null,
       "translations": {
         "es": "interés",
@@ -675,8 +675,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_023",
-      "word": "besonders",
+      "id": "pl_B1_019",
+      "word": "szczególnie",
       "transliteration": null,
       "translations": {
         "es": "especialmente",
@@ -712,8 +712,8 @@
       "pos": "adverb"
     },
     {
-      "id": "pl_B1_024",
-      "word": "notwendig",
+      "id": "pl_B1_020",
+      "word": "konieczny",
       "transliteration": null,
       "translations": {
         "es": "necesario",
@@ -749,8 +749,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_025",
-      "word": "schaffen",
+      "id": "pl_B1_021",
+      "word": "zdołać",
       "transliteration": null,
       "translations": {
         "es": "lograr",
@@ -786,8 +786,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_052",
-      "word": "entscheiden",
+      "id": "pl_B1_022",
+      "word": "decydować",
       "transliteration": null,
       "translations": {
         "es": "decidir",
@@ -823,8 +823,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_053",
-      "word": "öffentlich",
+      "id": "pl_B1_023",
+      "word": "publiczny",
       "transliteration": null,
       "translations": {
         "es": "público",
@@ -860,8 +860,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_055",
-      "word": "erlauben",
+      "id": "pl_B1_024",
+      "word": "pozwalać",
       "transliteration": null,
       "translations": {
         "es": "permitir",
@@ -897,8 +897,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_057",
-      "word": "verbieten",
+      "id": "pl_B1_025",
+      "word": "zakazywać",
       "transliteration": null,
       "translations": {
         "es": "prohibir",
@@ -934,8 +934,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_058",
-      "word": "bereit",
+      "id": "pl_B1_026",
+      "word": "gotowy",
       "transliteration": null,
       "translations": {
         "es": "listo",
@@ -971,8 +971,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_059",
-      "word": "genau",
+      "id": "pl_B1_027",
+      "word": "dokładny",
       "transliteration": null,
       "translations": {
         "es": "exacto",
@@ -1008,8 +1008,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_060",
-      "word": "führen",
+      "id": "pl_B1_028",
+      "word": "prowadzić",
       "transliteration": null,
       "translations": {
         "es": "llevar¹",
@@ -1045,8 +1045,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_062",
-      "word": "Welt",
+      "id": "pl_B1_029",
+      "word": "świat",
       "transliteration": null,
       "translations": {
         "es": "mundo",
@@ -1082,8 +1082,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_063",
-      "word": "besuchen",
+      "id": "pl_B1_030",
+      "word": "odwiedzać",
       "transliteration": null,
       "translations": {
         "es": "visitar",
@@ -1119,8 +1119,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_065",
-      "word": "verschieden",
+      "id": "pl_B1_031",
+      "word": "różny",
       "transliteration": null,
       "translations": {
         "es": "diferente",
@@ -1156,8 +1156,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_067",
-      "word": "schreiben",
+      "id": "pl_B1_032",
+      "word": "pisać",
       "transliteration": null,
       "translations": {
         "es": "escribir",
@@ -1193,8 +1193,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_069",
-      "word": "meinen",
+      "id": "pl_B1_033",
+      "word": "mieć na myśli",
       "transliteration": null,
       "translations": {
         "es": "opinar",
@@ -1231,8 +1231,8 @@
     },
     
     {
-      "id": "pl_B1_071",
-      "word": "Anfang",
+      "id": "pl_B1_034",
+      "word": "początek",
       "transliteration": null,
       "translations": {
         "es": "inicio",
@@ -1268,8 +1268,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_072",
-      "word": "Ende",
+      "id": "pl_B1_035",
+      "word": "koniec",
       "transliteration": null,
       "translations": {
         "es": "fin",
@@ -1305,8 +1305,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_073",
-      "word": "Antwort",
+      "id": "pl_B1_036",
+      "word": "odpowiedź",
       "transliteration": null,
       "translations": {
         "es": "respuesta",
@@ -1342,8 +1342,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_074",
-      "word": "Frage",
+      "id": "pl_B1_037",
+      "word": "pytanie",
       "transliteration": null,
       "translations": {
         "es": "pregunta",
@@ -1379,8 +1379,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_076",
-      "word": "rechnen",
+      "id": "pl_B1_038",
+      "word": "liczyć",
       "transliteration": null,
       "translations": {
         "es": "calcular",
@@ -1416,8 +1416,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_077",
-      "word": "schwach",
+      "id": "pl_B1_039",
+      "word": "słaby",
       "transliteration": null,
       "translations": {
         "es": "débil",
@@ -1453,8 +1453,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_078",
-      "word": "stark",
+      "id": "pl_B1_040",
+      "word": "silny",
       "transliteration": null,
       "translations": {
         "es": "fuerte",
@@ -1490,8 +1490,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_081",
-      "word": "halten",
+      "id": "pl_B1_041",
+      "word": "trzymać",
       "transliteration": null,
       "translations": {
         "es": "sostener",
@@ -1527,8 +1527,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_083",
-      "word": "wählen",
+      "id": "pl_B1_042",
+      "word": "wybierać",
       "transliteration": null,
       "translations": {
         "es": "elegir",
@@ -1564,8 +1564,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_084",
-      "word": "bekommen",
+      "id": "pl_B1_043",
+      "word": "otrzymywać",
       "transliteration": null,
       "translations": {
         "es": "recibir",
@@ -1601,8 +1601,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_086",
-      "word": "liegen",
+      "id": "pl_B1_044",
+      "word": "leżeć",
       "transliteration": null,
       "translations": {
         "es": "estar acostado",
@@ -1638,8 +1638,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_087",
-      "word": "stehen",
+      "id": "pl_B1_045",
+      "word": "stać",
       "transliteration": null,
       "translations": {
         "es": "estar de pie",
@@ -1675,8 +1675,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_090",
-      "word": "kosten",
+      "id": "pl_B1_046",
+      "word": "kosztować",
       "transliteration": null,
       "translations": {
         "es": "costar",
@@ -1712,8 +1712,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_093",
-      "word": "spielen",
+      "id": "pl_B1_047",
+      "word": "grać",
       "transliteration": null,
       "translations": {
         "es": "jugar",
@@ -1749,8 +1749,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_094",
-      "word": "stehen lassen",
+      "id": "pl_B1_048",
+      "word": "zostawić",
       "transliteration": null,
       "translations": {
         "es": "dejar",
@@ -1786,8 +1786,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_095",
-      "word": "tragen",
+      "id": "pl_B1_049",
+      "word": "nosić",
       "transliteration": null,
       "translations": {
         "es": "llevar",
@@ -1823,8 +1823,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_096",
-      "word": "waschen",
+      "id": "pl_B1_050",
+      "word": "myć",
       "transliteration": null,
       "translations": {
         "es": "lavar",
