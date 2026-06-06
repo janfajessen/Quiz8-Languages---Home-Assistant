@@ -1,0 +1,14 @@
+{
+  "domain": "quiz8_languages",
+  "name": "Quiz8 Languages",
+  "version": "1.0.0",
+  "documentation": "https://github.com/janfajessen/quiz8-languages",
+  "issue_tracker": "https://github.com/janfajessen/quiz8-languages/issues",
+  "codeowners": ["@janfajessen"],
+  "requirements": [],
+  "dependencies": [],
+  "after_dependencies": [],
+  "config_flow": true,
+  "iot_class": "local_polling",
+  "integration_type": "service"
+}
