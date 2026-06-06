@@ -8491,8 +8491,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_2038",
-      "word": "trobar a faltar",
+      "id": "pl_B1_231",
+      "word": "tęsknić za",
       "transliteration": null,
       "translations": {
         "es": "echar de menos / extrañar",
@@ -8528,8 +8528,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_2039",
-      "word": "empipar",
+      "id": "pl_B1_232",
+      "word": "irytować / denerwować",
       "transliteration": null,
       "translations": {
         "es": "molestar / fastidiar",
@@ -8565,8 +8565,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_2040",
-      "word": "adonar-se",
+      "id": "pl_B1_233",
+      "word": "zdać sobie sprawę / zauważyć",
       "transliteration": null,
       "translations": {
         "es": "darse cuenta / percatarse",
@@ -8602,8 +8602,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_2041",
-      "word": "avorrir",
+      "id": "pl_B1_234",
+      "word": "nudzić",
       "transliteration": null,
       "translations": {
         "es": "aburrir",
@@ -8639,8 +8639,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_2042",
-      "word": "pluja",
+      "id": "pl_B1_235",
+      "word": "deszcz",
       "transliteration": null,
       "translations": {
         "es": "lluvia",
@@ -8676,8 +8676,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2043",
-      "word": "boira",
+      "id": "pl_B1_236",
+      "word": "mgła",
       "transliteration": null,
       "translations": {
         "es": "niebla / neblina",
@@ -8713,8 +8713,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2044",
-      "word": "tro",
+      "id": "pl_B1_237",
+      "word": "grzmot",
       "transliteration": null,
       "translations": {
         "es": "trueno",
@@ -8750,8 +8750,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2045",
-      "word": "llamp",
+      "id": "pl_B1_238",
+      "word": "błyskawica"
       "transliteration": null,
       "translations": {
         "es": "rayo / relámpago",
@@ -8787,8 +8787,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2046",
-      "word": "tempesta",
+      "id": "pl_B1_239",
+      "word": "burza / sztorm",
       "transliteration": null,
       "translations": {
         "es": "tormenta / tempestad",
@@ -8824,8 +8824,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2047",
-      "word": "cel",
+      "id": "pl_B1_240",
+      "word": "niebo",
       "transliteration": null,
       "translations": {
         "es": "cielo",
@@ -8861,8 +8861,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2048",
-      "word": "bosc",
+      "id": "pl_B1_241",
+      "word": "las",
       "transliteration": null,
       "translations": {
         "es": "bosque",
@@ -8898,8 +8898,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2049",
-      "word": "llac",
+      "id": "pl_B1_242",
+      "word": "jezioro",
       "transliteration": null,
       "translations": {
         "es": "lago",
@@ -8935,8 +8935,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2050",
-      "word": "muntanya",
+      "id": "pl_B1_243",
+      "word": "góra",
       "transliteration": null,
       "translations": {
         "es": "montaña",
@@ -8972,8 +8972,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2051",
-      "word": "ombra",
+      "id": "pl_B1_244",
+      "word": "cień",
       "transliteration": null,
       "translations": {
         "es": "sombra",
@@ -9009,8 +9009,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2052",
-      "word": "pedra",
+      "id": "pl_B1_245",
+      "word": "kamień / skała",
       "transliteration": null,
       "translations": {
         "es": "piedra / roca",
@@ -9046,8 +9046,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2053",
-      "word": "sorra",
+      "id": "pl_B1_246",
+      "word": "piasek",
       "transliteration": null,
       "translations": {
         "es": "arena",
@@ -9083,8 +9083,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2054",
-      "word": "fulla",
+      "id": "pl_B1_247",
+      "word": "liść / arkusz",
       "transliteration": null,
       "translations": {
         "es": "hoja (de árbol / de papel)",
@@ -9120,8 +9120,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2055",
-      "word": "branca",
+      "id": "pl_B1_248",
+      "word": "gałąź / gałązka",
       "transliteration": null,
       "translations": {
         "es": "rama",
@@ -9157,8 +9157,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2056",
-      "word": "cuixa",
+      "id": "pl_B1_249",
+      "word": "udo",
       "transliteration": null,
       "translations": {
         "es": "muslo",
@@ -9194,8 +9194,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2057",
-      "word": "genoll",
+      "id": "pl_B1_250",
+      "word": "kolano",
       "transliteration": null,
       "translations": {
         "es": "rodilla",
@@ -9231,8 +9231,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2058",
-      "word": "colze",
+      "id": "pl_B1_251",
+      "word": "łokieć",
       "transliteration": null,
       "translations": {
         "es": "codo",
@@ -9268,8 +9268,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2059",
-      "word": "cella",
+      "id": "pl_B1_252",
+      "word": "brew",
       "transliteration": null,
       "translations": {
         "es": "ceja",
@@ -9305,8 +9305,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2060",
-      "word": "polze",
+      "id": "pl_B1_260",
+      "word": "kciuk",
       "transliteration": null,
       "translations": {
         "es": "pulgar",
@@ -9342,8 +9342,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2061",
-      "word": "espatlla",
+      "id": "pl_B1_261",
+      "word": "ramię / bark",
       "transliteration": null,
       "translations": {
         "es": "hombro / espalda alta",
@@ -9379,8 +9379,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2062",
-      "word": "gènere",
+      "id": "pl_B1_262",
+      "word": "gatunek / rodzaj",
       "transliteration": null,
       "translations": {
         "es": "género / tipo",
@@ -9416,8 +9416,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2063",
-      "word": "sou",
+      "id": "pl_B1_263",
+      "word": "pensja / wynagrodzenie",
       "transliteration": null,
       "translations": {
         "es": "sueldo / salario",
@@ -9453,8 +9453,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2064",
-      "word": "sindicat",
+      "id": "pl_B1_264",
+      "word": "związek zawodowy",
       "transliteration": null,
       "translations": {
         "es": "sindicato",
@@ -9490,8 +9490,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2065",
-      "word": "termini",
+      "id": "pl_B1_265",
+      "word": "termin / deadline",
       "transliteration": null,
       "translations": {
         "es": "plazo / fecha límite",
@@ -9527,8 +9527,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2066",
-      "word": "gendre",
+      "id": "pl_B1_266",
+      "word": "zięć",
       "transliteration": null,
       "translations": {
         "es": "yerno",
@@ -9564,8 +9564,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2067",
-      "word": "nora",
+      "id": "pl_B1_267",
+      "word": "synowa",
       "transliteration": null,
       "translations": {
         "es": "nuera",
@@ -9601,8 +9601,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2068",
-      "word": "cunyat",
+      "id": "pl_B1_268",
+      "word": "szwagier",
       "transliteration": null,
       "translations": {
         "es": "cuñado",
@@ -9638,8 +9638,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2069",
-      "word": "besavi",
+      "id": "pl_B1_269",
+      "word": "pradziadek",
       "transliteration": null,
       "translations": {
         "es": "bisabuelo",
@@ -9675,8 +9675,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2070",
-      "word": "adreça",
+      "id": "pl_B1_270",
+      "word": "adres",
       "transliteration": null,
       "translations": {
         "es": "dirección / señas",
@@ -9712,8 +9712,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2071",
-      "word": "vorera",
+      "id": "pl_B1_271",
+      "word": "chodnik",
       "transliteration": null,
       "translations": {
         "es": "acera / vereda",
@@ -9749,8 +9749,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2072",
-      "word": "embús",
+      "id": "pl_B1_272",
+      "word": "korek / zator",
       "transliteration": null,
       "translations": {
         "es": "atasco / embotellamiento",
@@ -9786,8 +9786,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2073",
-      "word": "semàfor",
+      "id": "pl_B1_273",
+      "word": "sygnalizacja świetlna / światła",
       "transliteration": null,
       "translations": {
         "es": "semáforo",
@@ -9823,8 +9823,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2074",
-      "word": "bitllet",
+      "id": "pl_B1_274",
+      "word": "bilet / banknot",
       "transliteration": null,
       "translations": {
         "es": "billete / entrada",
@@ -9860,8 +9860,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2075",
-      "word": "equipatge",
+      "id": "pl_B1_275",
+      "word": "bagaż",
       "transliteration": null,
       "translations": {
         "es": "equipaje",
@@ -9897,8 +9897,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2076",
-      "word": "duana",
+      "id": "pl_B1_276",
+      "word": "urząd celny",
       "transliteration": null,
       "translations": {
         "es": "aduana",
@@ -9934,8 +9934,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2077",
-      "word": "allotjament",
+      "id": "pl_B1_277",
+      "word": "zakwaterowanie",
       "transliteration": null,
       "translations": {
         "es": "alojamiento",
@@ -9971,8 +9971,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2078",
-      "word": "pastanaga",
+      "id": "pl_B1_278",
+      "word": "marchewka",
       "transliteration": null,
       "translations": {
         "es": "zanahoria",
@@ -10008,8 +10008,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2079",
-      "word": "enciam",
+      "id": "pl_B1_279",
+      "word": "sałata",
       "transliteration": null,
       "translations": {
         "es": "lechuga",
@@ -10045,8 +10045,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2080",
-      "word": "mongeta",
+      "id": "pl_B1_280",
+      "word": "fasola",
       "transliteration": null,
       "translations": {
         "es": "judía / alubia / frijol",
@@ -10082,8 +10082,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2081",
-      "word": "pollastre",
+      "id": "pl_B1_281",
+      "word": "kurczak",
       "transliteration": null,
       "translations": {
         "es": "pollo",
@@ -10119,8 +10119,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2082",
-      "word": "gambes",
+      "id": "pl_B1_282",
+      "word": "krewetki",
       "transliteration": null,
       "translations": {
         "es": "gambas",
@@ -10156,8 +10156,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2083",
-      "word": "oli",
+      "id": "pl_B1_283",
+      "word": "olej / oliwa",
       "transliteration": null,
       "translations": {
         "es": "aceite",
@@ -10193,8 +10193,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2084",
-      "word": "farina",
+      "id": "pl_B1_284",
+      "word": "mąka",
       "transliteration": null,
       "translations": {
         "es": "harina",
@@ -10230,8 +10230,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2085",
-      "word": "truita",
+      "id": "pl_B1_285",
+      "word": "omlet / pstrąg",
       "transliteration": null,
       "translations": {
         "es": "tortilla (de patatas) / trucha",
@@ -10267,8 +10267,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2086",
-      "word": "remei",
+      "id": "pl_B1_286",
+      "word": "lekarstwo / środek",
       "transliteration": null,
       "translations": {
         "es": "remedio / medicamento",
@@ -10304,8 +10304,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2087",
-      "word": "febre",
+      "id": "pl_B1_287",
+      "word": "gorączka",
       "transliteration": null,
       "translations": {
         "es": "fiebre",
@@ -10341,8 +10341,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2088",
-      "word": "ferida",
+      "id": "pl_B1_288",
+      "word": "rana / uraz",
       "transliteration": null,
       "translations": {
         "es": "herida",
@@ -10378,8 +10378,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2089",
-      "word": "tos",
+      "id": "pl_B1_289",
+      "word": "kaszel",
       "transliteration": null,
       "translations": {
         "es": "tos",
@@ -10415,8 +10415,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2090",
-      "word": "vestit",
+      "id": "pl_B1_290",
+      "word": "sukienka / garnitur",
       "transliteration": null,
       "translations": {
         "es": "vestido / traje",
@@ -10452,8 +10452,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2091",
-      "word": "jaqueta",
+      "id": "pl_B1_291",
+      "word": "kurtka / marynarka",
       "transliteration": null,
       "translations": {
         "es": "chaqueta / americana",
@@ -10489,8 +10489,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2092",
-      "word": "mitjons",
+      "id": "pl_B1_292",
+      "word": "skarpetki",
       "transliteration": null,
       "translations": {
         "es": "calcetines",
@@ -10526,8 +10526,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2093",
-      "word": "roba interior",
+      "id": "pl_B1_293",
+      "word": "bielizna",
       "transliteration": null,
       "translations": {
         "es": "ropa interior",
@@ -10563,8 +10563,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2094",
-      "word": "cinturó",
+      "id": "pl_B1_294",
+      "word": "pasek",
       "transliteration": null,
       "translations": {
         "es": "cinturón",
@@ -10600,8 +10600,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2095",
-      "word": "capell",
+      "id": "pl_B1_295",
+      "word": "kapelusz",
       "transliteration": null,
       "translations": {
         "es": "sombrero",
@@ -10637,8 +10637,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2096",
-      "word": "ulleres",
+      "id": "pl_B1_296",
+      "word": "okulary",
       "transliteration": null,
       "translations": {
         "es": "gafas / anteojos",
@@ -10674,8 +10674,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_2097",
-      "word": "graciós",
+      "id": "pl_B1_297",
+      "word": "śmieszny / uroczy",
       "transliteration": null,
       "translations": {
         "es": "gracioso / divertido",
@@ -10711,8 +10711,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_2098",
-      "word": "mandró",
+      "id": "pl_B1_298",
+      "word": "leniwy",
       "transliteration": null,
       "translations": {
         "es": "perezoso / vago",
@@ -10748,8 +10748,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_2099",
-      "word": "estrany",
+      "id": "pl_B1_299",
+      "word": "dziwny / obcy / cudzoziemski",
       "transliteration": null,
       "translations": {
         "es": "extraño / raro",
@@ -10785,8 +10785,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_2100",
-      "word": "capaç",
+      "id": "pl_B1_300",
+      "word": "zdolny / w stanie",
       "transliteration": null,
       "translations": {
         "es": "capaz",
