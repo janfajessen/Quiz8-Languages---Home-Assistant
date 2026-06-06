@@ -1,11 +1,27 @@
+
+<div align="center">
+
 # Quiz8 Languages — Home Assistant Integration
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![HA Version](https://img.shields.io/badge/Home%20Assistant-2024.1%2B-brightgreen)
-![HACS](https://img.shields.io/badge/HACS-Custom-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
+<img src="https://github.com/janfajessen/Quiz8-Languages---Home-Assistant/blob/c52439777b326e7db3e634f40903392aa059f3ba/custom_components/quiz8_languages/brand/icon%402x.png" width="250"/>
+
+![Version](https://img.shields.io/badge/version-1.5.28-blue?style=for-the-badge)
+![HA](https://img.shields.io/badge/Home%20Assistant-2024.1+-orange?style=for-the-badge&logo=home-assistant)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python)
+![HACS](https://img.shields.io/badge/HACS-Custom-41BDF5?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/janfajessen)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/janfajessen)
+<!--[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Support-teal?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/janfajessen)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/janfajessen)
+
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal)](https://paypal.me/janfajessen)-->
 
 A Home Assistant custom integration that turns your smart home into a language learning platform. Practice vocabulary across up to 8 languages simultaneously, with spaced repetition, daily streaks, and mastery tracking — all from your Lovelace dashboard.
+
+
+</div>
 
 ---
 
