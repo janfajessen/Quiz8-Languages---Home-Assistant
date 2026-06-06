@@ -1,0 +1,49 @@
+{
+  "title": "Quiz8 Languages",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Select 8 languages to learn",
+        "description": "Choose exactly {count} languages from the {total} available. The right column will show translations in your Home Assistant UI language.",
+        "data": {
+          "selected_languages": "Languages to learn"
+        }
+      },
+      "level": {
+        "title": "Level for {language} ({code})",
+        "description": "Select your CEFR level for {language}. Language {index} of {total}.\n\nRecommended starting level: **{recommended}**",
+        "data": {
+          "level": "CEFR Level"
+        }
+      }
+    },
+    "error": {
+      "select_exactly_8": "You must select exactly 8 languages.",
+      "vocab_not_found": "Vocabulary file not found for this language/level combination."
+    },
+    "abort": {
+      "already_configured": "Quiz8 Languages is already configured."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Reconfigure languages",
+        "description": "Choose exactly {count} languages. Your progress will be preserved.",
+        "data": {
+          "selected_languages": "Languages to learn"
+        }
+      },
+      "level": {
+        "title": "Level for {language} ({code})",
+        "description": "Select your CEFR level for {language}. Language {index} of {total}.\n\nRecommended starting level: **{recommended}**",
+        "data": {
+          "level": "CEFR Level"
+        }
+      }
+    },
+    "error": {
+      "select_exactly_8": "You must select exactly 8 languages."
+    }
+  }
+}
