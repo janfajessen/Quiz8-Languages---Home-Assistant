@@ -7,7 +7,7 @@
   "words": [
     {
       "id": "pl_B1_001",
-      "word": "erreichen",
+      "word": "osiągać",
       "transliteration": null,
       "translations": {
         "es": "lograr/alcanzar",
@@ -43,8 +43,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_003",
-      "word": "Umgebung",
+      "id": "pl_B1_002",
+      "word": "otoczenie",
       "transliteration": null,
       "translations": {
         "es": "entorno",
@@ -80,8 +80,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_004",
-      "word": "wahrscheinlich",
+      "id": "pl_B1_003",
+      "word": "prawdopodobny",
       "transliteration": null,
       "translations": {
         "es": "probable",
@@ -117,8 +117,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_005",
-      "word": "vergleichen",
+      "id": "pl_B1_004",
+      "word": "porównywać",
       "transliteration": null,
       "translations": {
         "es": "comparar",
@@ -155,8 +155,8 @@
     },
 
     {
-      "id": "pl_B1_006",
-      "word": "Möglichkeit",
+      "id": "pl_B1_005",
+      "word": "możliwość",
       "transliteration": null,
       "translations": {
         "es": "posibilidad",
@@ -192,8 +192,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_007",
-      "word": "Verantwortung",
+      "id": "pl_B1_006",
+      "word": "odpowiedzialność",
       "transliteration": null,
       "translations": {
         "es": "responsabilidad",
@@ -229,8 +229,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_008",
-      "word": "verändern",
+      "id": "pl_B1_007",
+      "word": "zmieniać",
       "transliteration": null,
       "translations": {
         "es": "cambiar",
@@ -266,8 +266,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_009",
-      "word": "Gesellschaft",
+      "id": "pl_B1_008",
+      "word": "społeczeństwo",
       "transliteration": null,
       "translations": {
         "es": "sociedad",
@@ -304,8 +304,8 @@
     },
 
     {
-      "id": "pl_B1_012",
-      "word": "verbessern",
+      "id": "pl_B1_09",
+      "word": "poprawiać",
       "transliteration": null,
       "translations": {
         "es": "mejorar",
@@ -341,8 +341,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_013",
-      "word": "Beziehung",
+      "id": "pl_B1_010",
+      "word": "relacja",
       "transliteration": null,
       "translations": {
         "es": "relación",
@@ -379,8 +379,8 @@
     },
  
     {
-      "id": "pl_B1_015",
-      "word": "Situation",
+      "id": "pl_B1_011",
+      "word": "sytuacja",
       "transliteration": null,
       "translations": {
         "es": "situación",
@@ -416,8 +416,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_016",
-      "word": "verbinden",
+      "id": "pl_B1_012",
+      "word": "łączyć",
       "transliteration": null,
       "translations": {
         "es": "conectar",
@@ -453,8 +453,8 @@
       "pos": "verb"
     },
     {
-      "id": "pl_B1_017",
-      "word": "Herausforderung",
+      "id": "pl_B1_013",
+      "word": "wyzwanie",
       "transliteration": null,
       "translations": {
         "es": "desafío",
@@ -490,8 +490,8 @@
       "pos": "noun"
     },
     {
-      "id": "pl_B1_018",
-      "word": "erfolgreich",
+      "id": "pl_B1_014",
+      "word": "udany",
       "transliteration": null,
       "translations": {
         "es": "exitoso",
@@ -527,8 +527,8 @@
       "pos": "adjective"
     },
     {
-      "id": "pl_B1_019",
-      "word": "entwickeln",
+      "id": "pl_B1_015",
+      "word": "rozwijać",
       "transliteration": null,
       "translations": {
         "es": "desarrollar",
