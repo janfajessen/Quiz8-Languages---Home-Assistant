@@ -1,0 +1,416 @@
+{
+  "metadata": {
+    "language": "ca",
+    "level": "B2",
+    "total": 500
+  },
+  "words": [
+    {
+      "id": "ca_B2_001",
+      "word": "mercat",
+      "transliteration": null,
+      "translations": { "es": "mercado", "en": "market", "fr": "marché", "de": "Markt", "it": "mercato", "pt": "mercado", "ru": "рынок", "pl": "rynek", "ca": "mercat", "nl": "markt", "sv": "marknad", "no": "marked", "da": "marked", "fi": "tori", "cs": "trh", "ro": "piață", "hu": "piac", "el": "αγορά", "uk": "ринок", "tr": "pazar", "eu": "merkatu", "gl": "mercado", "ar": "سوق", "zh": "市场", "ja": "市場", "ko": "시장", "hi": "बाज़ार", "he": "שוק" },
+      "category": "city",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_002",
+      "word": "pont",
+      "transliteration": null,
+      "translations": { "es": "puente", "en": "bridge", "fr": "pont", "de": "Brücke", "it": "ponte", "pt": "ponte", "ru": "мост", "pl": "most", "ca": "pont", "nl": "brug", "sv": "bro", "no": "bro", "da": "bro", "fi": "silta", "cs": "most", "ro": "pod", "hu": "híd", "el": "γέφυρα", "uk": "міст", "tr": "köprü", "eu": "zubi", "gl": "ponte", "ar": "جسر", "zh": "桥", "ja": "橋", "ko": "다리", "hi": "पुल", "he": "גשר" },
+      "category": "city",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_003",
+      "word": "platja",
+      "transliteration": null,
+      "translations": { "es": "playa", "en": "beach", "fr": "plage", "de": "Strand", "it": "spiaggia", "pt": "praia", "ru": "пляж", "pl": "plaża", "ca": "platja", "nl": "strand", "sv": "strand", "no": "strand", "da": "strand", "fi": "ranta", "cs": "pláž", "ro": "plajă", "hu": "strand", "el": "παραλία", "uk": "пляж", "tr": "plaj", "eu": "hondartza", "gl": "praia", "ar": "شاطئ", "zh": "海滩", "ja": "ビーチ", "ko": "해변", "hi": "समुद्र तट", "he": "חוף" },
+      "category": "nature",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_004",
+      "word": "paradís",
+      "transliteration": null,
+      "translations": { "es": "paraíso", "en": "paradise", "fr": "paradis", "de": "Paradies", "it": "paradiso", "pt": "paraíso", "ru": "рай", "pl": "raj", "ca": "paradís", "nl": "paradijs", "sv": "paradis", "no": "paradis", "da": "paradis", "fi": "paratiisi", "cs": "ráj", "ro": "paradis", "hu": "paradicsom", "el": "παράδεισος", "uk": "рай", "tr": "cennet", "eu": "paradisua", "gl": "paraíso", "ar": "جنة", "zh": "天堂", "ja": "楽園", "ko": "천국", "hi": "स्वर्ग", "he": "גן עדן" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_005",
+      "word": "esbarjo",
+      "transliteration": null,
+      "translations": { "es": "ocio", "en": "leisure", "fr": "loisir", "de": "Freizeit", "it": "svago", "pt": "lazer", "ru": "досуг", "pl": "czas wolny", "ca": "esbarjo", "nl": "vrije tijd", "sv": "fritid", "no": "fritid", "da": "fritid", "fi": "vapaa-aika", "cs": "volný čas", "ro": "timp liber", "hu": "szabadidő", "el": "ελεύθερος χρόνος", "uk": "дозвілля", "tr": "boş zaman", "eu": "aisialdi", "gl": "lecer", "ar": "ترفيه", "zh": "休闲", "ja": "余暇", "ko": "여가", "hi": "अवकाश", "he": "פנאי" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_006",
+      "word": "endreçar",
+      "transliteration": null,
+      "translations": { "es": "ordenar", "en": "to tidy up", "fr": "ranger", "de": "aufräumen", "it": "riordinare", "pt": "arrumar", "ru": "убирать", "pl": "porządkować", "ca": "endreçar", "nl": "opruimen", "sv": "städa upp", "no": "rydde opp", "da": "rydde op", "fi": "järjestää", "cs": "uklidit", "ro": "a ordona", "hu": "rendet rakni", "el": "τακτοποιώ", "uk": "прибирати", "tr": "düzenlemek", "eu": "antolatu", "gl": "ordenar", "ar": "يرتب", "zh": "整理", "ja": "片付ける", "ko": "정리하다", "hi": "साफ करना", "he": "לסדר" },
+      "category": "house",
+      "pos": "verb"
+    },
+    {
+      "id": "ca_B2_007",
+      "word": "esclatar",
+      "transliteration": null,
+      "translations": { "es": "estallar", "en": "to burst", "fr": "éclater", "de": "explodieren", "it": "scoppiare", "pt": "explodir", "ru": "взрываться", "pl": "wybuchnąć", "ca": "esclatar", "nl": "uitbarsten", "sv": "explodera", "no": "eksplodere", "da": "eksplodere", "fi": "räjähtää", "cs": "vybuchnout", "ro": "a exploda", "hu": "felrobbanni", "el": "εκρήγνυμαι", "uk": "вибухати", "tr": "patlamak", "eu": "lehertu", "gl": "estourar", "ar": "ينفجر", "zh": "爆炸", "ja": "爆発する", "ko": "폭발하다", "hi": "फटना", "he": "להתפוצץ" },
+      "category": "nature",
+      "pos": "verb"
+    },
+    {
+      "id": "ca_B2_008",
+      "word": "gaudir",
+      "transliteration": null,
+      "translations": { "es": "disfrutar", "en": "to enjoy", "fr": "profiter", "de": "genießen", "it": "godere", "pt": "desfrutar", "ru": "наслаждаться", "pl": "cieszyć się", "ca": "gaudir", "nl": "genieten", "sv": "njuta", "no": "nyte", "da": "nyde", "fi": "nauttia", "cs": "užívat si", "ro": "a se bucura", "hu": "élvezni", "el": "απολαμβάνω", "uk": "насолоджуватися", "tr": "keyif almak", "eu": "gozatu", "gl": "gozar", "ar": "يستمتع", "zh": "享受", "ja": "楽しむ", "ko": "즐기다", "hi": "आनंद लेना", "he": "ליהנות" },
+      "category": "emotions",
+      "pos": "verb"
+    },
+    {
+      "id": "ca_B2_009",
+      "word": "esquitx",
+      "transliteration": null,
+      "translations": { "es": "salpicadura", "en": "splash", "fr": "éclaboussure", "de": "Spritzer", "it": "schizzo", "pt": "respingos", "ru": "брызги", "pl": "rozprysk", "ca": "esquitx", "nl": "spat", "sv": "stänk", "no": "sprut", "da": "stænk", "fi": "roiske", "cs": "stříkance", "ro": "stropi", "hu": "fröccsenés", "el": "πιτσίλισμα", "uk": "бризки", "tr": "sıçrama", "eu": "zipriztin", "gl": "esguicho", "ar": "رذاذ", "zh": "飞溅", "ja": "飛沫", "ko": "물방울", "hi": "छींटा", "he": "התזה" },
+      "category": "nature",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_010",
+      "word": "esglai",
+      "transliteration": null,
+      "translations": { "es": "susto", "en": "fright", "fr": "frayeur", "de": "Schreck", "it": "spavento", "pt": "susto", "ru": "испуг", "pl": "strach", "ca": "esglai", "nl": "schrik", "sv": "skrämsel", "no": "skrekk", "da": "forskrækkelse", "fi": "säikähdys", "cs": "vyděšení", "ro": "sperietură", "hu": "ijedtség", "el": "φόβος", "uk": "переляк", "tr": "korku", "eu": "beldur", "gl": "susto", "ar": "فزع", "zh": "惊吓", "ja": "驚き", "ko": "놀람", "hi": "डर", "he": "בהלה" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_011",
+      "word": "esclop",
+      "transliteration": null,
+      "translations": { "es": "zueco", "en": "clog", "fr": "sabot", "de": "Holzschuh", "it": "zoccolo", "pt": "tamanco", "ru": "деревянный башмак", "pl": "chodak", "ca": "esclop", "nl": "klomp", "sv": "träskor", "no": "tresko", "da": "træsko", "fi": "puukenkä", "cs": "dřevák", "ro": "saboti", "hu": "fapapucs", "el": "ξυλοπάπουτσο", "uk": "дерев’яний черевик", "tr": "tahta ayakkabı", "eu": "zueko", "gl": "zoco", "ar": "قبقاب خشبي", "zh": "木鞋", "ja": "木靴", "ko": "나막신", "hi": "लकड़ी का जूता", "he": "קלוג" },
+      "category": "clothes",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_012",
+      "word": "esbarzer",
+      "transliteration": null,
+      "translations": { "es": "zarza", "en": "bramble", "fr": "ronce", "de": "Brombeerstrauch", "it": "rovo", "pt": "silva", "ru": "ежевика куст", "pl": "jeżyna krzew", "ca": "esbarzer", "nl": "braamstruik", "sv": "björnbärsbuske", "no": "bjørnebærbusk", "da": "brombærbusk", "fi": "karhunvatukka pensas", "cs": "ostružiník", "ro": "mur", "hu": "szederbokor", "el": "βατόμουρο θάμνος", "uk": "ожина кущ", "tr": "böğürtlen çalısı", "eu": "masusta", "gl": "silva", "ar": "عليق", "zh": "黑莓灌木", "ja": "野いばら", "ko": "블랙베리 덤불", "hi": "झाड़ी", "he": "פטל בר" },
+      "category": "nature",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_013",
+      "word": "esclafir",
+      "transliteration": null,
+      "translations": { "es": "romper a reír", "en": "to burst out laughing", "fr": "éclater de rire", "de": "losplatzen", "it": "scoppiare a ridere", "pt": "rir repentinamente", "ru": "рассмеяться", "pl": "wybuchnąć śmiechem", "ca": "esclafir", "nl": "in lachen uitbarsten", "sv": "brista ut i skratt", "no": "bryte ut i latter", "da": "bryde ud i latter", "fi": "purskahtaa nauruun", "cs": "vybuchnout smíchem", "ro": "a izbucni în râs", "hu": "kitörni nevetésben", "el": "ξεσπάω σε γέλια", "uk": "розсміятися", "tr": "kahkaha atmak", "eu": "barrez lehertu", "gl": "estourar en risa", "ar": "ينفجر ضاحكًا", "zh": "大笑", "ja": "笑い出す", "ko": "웃음을 터뜨리다", "hi": "हँसी फूट पड़ना", "he": "לפרוץ בצחוק" },
+      "category": "emotions",
+      "pos": "verb"
+    },
+    {
+      "id": "ca_B2_014",
+      "word": "esclavina",
+      "transliteration": null,
+      "translations": { "es": "esclavina", "en": "capelet", "fr": "esclavine", "de": "Schulterkragen", "it": "mantellina", "pt": "esclavina", "ru": "накидка", "pl": "pelerynka", "ca": "esclavina", "nl": "schoudermantel", "sv": "capelet", "no": "skulderkappe", "da": "skulderkappe", "fi": "viitta", "cs": "pláštík", "ro": "mantie scurtă", "hu": "vállkendő", "el": "μανδύας", "uk": "коротка накидка", "tr": "omuz pelerini", "eu": "esklabina", "gl": "esclavina", "ar": "عباءة قصيرة", "zh": "短披肩", "ja": "肩掛け", "ko": "짧은 망토", "hi": "छोटा ओढ़ना", "he": "גלימה קצרה" },
+      "category": "clothes",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_015",
+      "word": "esma",
+      "transliteration": null,
+      "translations": { "es": "instinto", "en": "instinct", "fr": "instinct", "de": "Instinkt", "it": "istinto", "pt": "instinto", "ru": "инстинкт", "pl": "instynkt", "ca": "esma", "nl": "instinct", "sv": "instinkt", "no": "instinkt", "da": "instinkt", "fi": "vaisto", "cs": "instinkt", "ro": "instinct", "hu": "ösztön", "el": "ένστικτο", "uk": "інстинкт", "tr": "içgüdü", "eu": "instintu", "gl": "instinto", "ar": "غريزة", "zh": "本能", "ja": "本能", "ko": "본능", "hi": "सहज ज्ञान", "he": "אינסטינקט" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_016",
+      "word": "xivarri",
+      "transliteration": null,
+      "translations": { "es": "jaleo", "en": "uproar", "fr": "vacarme", "de": "Lärm", "it": "chiasso", "pt": "barulho", "ru": "шум", "pl": "hałas", "ca": "xivarri", "nl": "herrie", "sv": "oväsen", "no": "bråk", "da": "larm", "fi": "melu", "cs": "hluk", "ro": "zarvă", "hu": "zaj", "el": "φασαρία", "uk": "галас", "tr": "gürültü", "eu": "zalaparta", "gl": "barullo", "ar": "ضوضاء", "zh": "喧闹", "ja": "騒ぎ", "ko": "소란", "hi": "कोलाहल", "he": "מהומה" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_017",
+      "word": "esgarip",
+      "transliteration": null,
+      "translations": { "es": "grito agudo", "en": "shriek", "fr": "cri aigu", "de": "Kreischen", "it": "strillo", "pt": "grito agudo", "ru": "визг", "pl": "pisk", "ca": "esgarip", "nl": "gil", "sv": "skrik", "no": "skrik", "da": "skrig", "fi": "kiljunta", "cs": "výkřik", "ro": "țipăt", "hu": "sikoly", "el": "κραυγή", "uk": "вереск", "tr": "çığlık", "eu": "oihu", "gl": "berro", "ar": "صرخة", "zh": "尖叫", "ja": "悲鳴", "ko": "비명", "hi": "चीख", "he": "צעקה" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_018",
+      "word": "esclopet",
+      "transliteration": null,
+      "translations": { "es": "escopeta pequeña", "en": "small shotgun", "fr": "petit fusil", "de": "kleine Flinte", "it": "fucile piccolo", "pt": "espingarda pequena", "ru": "маленькое ружье", "pl": "mała strzelba", "ca": "esclopet", "nl": "klein geweer", "sv": "liten hagelgevär", "no": "lite hagle", "da": "lille haglgevær", "fi": "pieni haulikko", "cs": "malá puška", "ro": "pușcă mică", "hu": "kis puska", "el": "μικρό όπλο", "uk": "маленька рушниця", "tr": "küçük tüfek", "eu": "escopeta txiki", "gl": "escopeta pequena", "ar": "بندقية صغيرة", "zh": "小猎枪", "ja": "小型銃", "ko": "작은 산탄총", "hi": "छोटी बंदूक", "he": "רובה קטן" },
+      "category": "city",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_019",
+      "word": "xerric",
+      "transliteration": null,
+      "translations": { "es": "chirrido", "en": "creak", "fr": "grincement", "de": "Knarren", "it": "cigolio", "pt": "rangido", "ru": "скрип", "pl": "skrzypienie", "ca": "xerric", "nl": "gekraak", "sv": "knarr", "no": "knirk", "da": "knirken", "fi": "narin", "cs": "vrzání", "ro": "scârțâit", "hu": "recsegés", "el": "τρίξιμο", "uk": "скрип", "tr": "gıcırtı", "eu": "kirrinka", "gl": "ruxido", "ar": "صرير", "zh": "吱嘎声", "ja": "きしみ", "ko": "삐걱거림", "hi": "चरमराहट", "he": "חריקה" },
+      "category": "house",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_020",
+      "word": "esclafit",
+      "transliteration": null,
+      "translations": { "es": "chasquido", "en": "crack", "fr": "claquement", "de": "Knall", "it": "scoppio", "pt": "estalo", "ru": "треск", "pl": "trzask", "ca": "esclafit", "nl": "knal", "sv": "knall", "no": "knall", "da": "knald", "fi": "pamaus", "cs": "prásknutí", "ro": "pocnet", "hu": "pattanás", "el": "κρότος", "uk": "тріск", "tr": "çatlama", "eu": "kraska", "gl": "estalo", "ar": "فرقعة", "zh": "爆裂声", "ja": "破裂音", "ko": "쾅", "hi": "धमाका", "he": "נפץ" },
+      "category": "nature",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_021",
+      "word": "xipollejar",
+      "transliteration": null,
+      "translations": { "es": "chapotear", "en": "to splash around", "fr": "barboter", "de": "planschen", "it": "sguazzare", "pt": "chapinhar", "ru": "плескаться", "pl": "pluskać się", "ca": "xipollejar", "nl": "spetteren", "sv": "plaska", "no": "plaske", "da": "plaske", "fi": "loiskia", "cs": "cákat", "ro": "a se bălăci", "hu": "pancsolni", "el": "πιτσιλίζω", "uk": "плескатися", "tr": "su sıçratmak", "eu": "zipriztindu", "gl": "chapuxar", "ar": "يخوض في الماء", "zh": "戏水", "ja": "水遊びする", "ko": "물장구치다", "hi": "पानी में खेलना", "he": "להשתכשך" },
+      "category": "nature",
+      "pos": "verb"
+    },
+    {
+      "id": "ca_B2_022",
+      "word": "esclafissar",
+      "transliteration": null,
+      "translations": { "es": "aplastar", "en": "to smash", "fr": "écraser", "de": "zerquetschen", "it": "schiacciare", "pt": "esmagar", "ru": "раздавить", "pl": "zmiażdżyć", "ca": "esclafissar", "nl": "verpletteren", "sv": "krossa", "no": "knuse", "da": "knuse", "fi": "murskata", "cs": "rozdrtit", "ro": "a zdrobi", "hu": "összezúzni", "el": "συντρίβω", "uk": "розчавити", "tr": "ezmek", "eu": "zapaltzea", "gl": "esmagar", "ar": "يسحق", "zh": "压碎", "ja": "押", "ko":"", "hi": "", "he": "" },
+      "category": "food",
+      "pos": "verb"
+    {
+      "id": "ca_B2_023",
+      "word": "xarrupar",
+      "transliteration": null,
+      "translations": { "es": "sorber", "en": "to slurp", "fr": "siroter", "de": "schlürfen", "it": "sorseggiare rumorosamente", "pt": "sorver", "ru": "шумно пить", "pl": "siorbać", "ca": "xarrupar", "nl": "slurpen", "sv": "slurpa", "no": "slurpe", "da": "slubre", "fi": "hörppiä", "cs": "srkat", "ro": "a sorbi", "hu": "szürcsölni", "el": "ρουφώ", "uk": "сьорбати", "tr": "höpürdeterek içmek", "eu": "xurrupatu", "gl": "sorber", "ar": "يرتشف بصوت", "zh": "啜饮", "ja": "すする", "ko": "후루룩 마시다", "hi": "चुस्की लेना", "he": "ללגום ברעש" },
+      "category": "food",
+      "pos": "verb"
+    },
+    {
+      "id": "ca_B2_024",
+      "word": "xiroi",
+      "transliteration": null,
+      "translations": { "es": "alegre", "en": "cheerful", "fr": "gai", "de": "fröhlich", "it": "allegro", "pt": "alegre", "ru": "весёлый", "pl": "wesoły", "ca": "xiroi", "nl": "vrolijk", "sv": "glad", "no": "glad", "da": "glad", "fi": "iloinen", "cs": "veselý", "ro": "vesel", "hu": "vidám", "el": "χαρούμενος", "uk": "веселий", "tr": "neşeli", "eu": "alaitsu", "gl": "ledicioso", "ar": "مرح", "zh": "愉快的", "ja": "陽気な", "ko": "명랑한", "hi": "प्रसन्न", "he": "עליז" },
+      "category": "emotions",
+      "pos": "adjective"
+    },
+    {
+      "id": "ca_B2_025",
+      "word": "xarranca",
+      "transliteration": null,
+      "translations": { "es": "rayuela", "en": "hopscotch", "fr": "marelle", "de": "Hüpfspiel", "it": "campana", "pt": "jogo da macaca", "ru": "классики", "pl": "gra w klasy", "ca": "xarranca", "nl": "hinkelen", "sv": "hoppa hage", "no": "paradislek", "da": "hinke", "fi": "ruutuhyppely", "cs": "skákání panáka", "ro": "șotron", "hu": "ugróiskola", "el": "κουτσό", "uk": "класики", "tr": "sek sek oyunu", "eu": "txintxirrin", "gl": "raio", "ar": "لعبة الحجلة", "zh": "跳房子", "ja": "けんけんぱ", "ko": "땅따먹기", "hi": "पिट्ठू", "he": "קלאס" },
+      "category": "city",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_026",
+      "word": "xarrup",
+      "transliteration": null,
+      "translations": { "es": "jarabe", "en": "syrup", "fr": "sirop", "de": "Sirup", "it": "sciroppo", "pt": "xarope", "ru": "сироп", "pl": "syrop", "ca": "xarrup", "nl": "siroop", "sv": "sirap", "no": "sirup", "da": "sirup", "fi": "siirappi", "cs": "sirup", "ro": "sirop", "hu": "szirup", "el": "σιρόπι", "uk": "сироп", "tr": "şurup", "eu": "jarabe", "gl": "xarope", "ar": "شراب", "zh": "糖浆", "ja": "シロップ", "ko": "시럽", "hi": "शरबत", "he": "סירופ" },
+      "category": "food",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_027",
+      "word": "xerrameca",
+      "transliteration": null,
+      "translations": { "es": "charlatanería", "en": "chatter", "fr": "bavardage", "de": "Geschwätz", "it": "chiacchiericcio", "pt": "tagarelice", "ru": "болтовня", "pl": "gadanina", "ca": "xerrameca", "nl": "geklets", "sv": "pladder", "no": "sladder", "da": "sladder", "fi": "lörpöttely", "cs": "tlachání", "ro": "flecăreală", "hu": "fecsegés", "el": "φλυαρία", "uk": "балаканина", "tr": "gevezelik", "eu": "berba", "gl": "leria", "ar": "ثرثرة", "zh": "闲聊", "ja": "おしゃべり", "ko": "수다", "hi": "बकवास", "he": "קשקוש" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_028",
+      "word": "xopar",
+      "transliteration": null,
+      "translations": { "es": "empapar", "en": "to soak", "fr": "tremper", "de": "durchnässen", "it": "inzuppare", "pt": "ensopar", "ru": "промокнуть", "pl": "przemoczyć", "ca": "xopar", "nl": "doorweken", "sv": "genomblöta", "no": "gjennombløte", "da": "gennemvæde", "fi": "kastua", "cs": "promočit", "ro": "a uda", "hu": "átázni", "el": "μουσκεύω", "uk": "промокати", "tr": "ıslanmak", "eu": "busti", "gl": "mollar", "ar": "ينقع", "zh": "浸湿", "ja": "びしょ濡れにする", "ko": "흠뻑 젖다", "hi": "भीगना", "he": "להרטיב" },
+      "category": "nature",
+      "pos": "verb"
+    },
+    {
+      "id": "ca_B2_029",
+      "word": "xarrupaire",
+      "transliteration": null,
+      "translations": { "es": "tragón", "en": "glutton", "fr": "glouton", "de": "Vielfraß", "it": "ghiottone", "pt": "guloso", "ru": "обжора", "pl": "żarłok", "ca": "xarrupaire", "nl": "veelvraat", "sv": "storätare", "no": "sluker", "da": "storæder", "fi": "ahmatti", "cs": "žrout", "ro": "mâncăcios", "hu": "falánk", "el": "λαίμαργος", "uk": "ненажера", "tr": "obur", "eu": "tripontzi", "gl": "larpeiro", "ar": "نهم", "zh": "贪吃鬼", "ja": "大食い", "ko": "대식가", "hi": "पेटू", "he": "זללן" },
+      "category": "food",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_030",
+      "word": "xerricó",
+      "transliteration": null,
+      "translations": { "es": "crujido", "en": "creaking sound", "fr": "craquement", "de": "Knarren", "it": "scricchiolio", "pt": "rangido", "ru": "скрип", "pl": "skrzypienie", "ca": "xerricó", "nl": "gekraak", "sv": "knarr", "no": "knirk", "da": "knirken", "fi": "narin", "cs": "vrzání", "ro": "scârțâit", "hu": "recsegés", "el": "τρίξιμο", "uk": "скрип", "tr": "gıcırtı", "eu": "kirrinka", "gl": "ruxido", "ar": "صرير", "zh": "吱嘎声", "ja": "きしみ", "ko": "삐걱거림", "hi": "चरमराहट", "he": "חריקה" },
+      "category": "house",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_031",
+      "word": "xopoll",
+      "transliteration": null,
+      "translations": { "es": "charco", "en": "puddle", "fr": "flaque", "de": "Pfütze", "it": "pozzanghera", "pt": "poça", "ru": "лужа", "pl": "kałuża", "ca": "xopoll", "nl": "plas", "sv": "pöl", "no": "dam", "da": "vandpyt", "fi": "lätäkkö", "cs": "louže", "ro": "baltă", "hu": "pocsolya", "el": "λακκούβα", "uk": "калюжа", "tr": "su birikintisi", "eu": "putzu", "gl": "poza", "ar": "بركة ماء", "zh": "水坑", "ja": "水たまり", "ko": "웅덩이", "hi": "गड्ढा", "he": "שלולית" },
+      "category": "nature",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_032",
+      "word": "xerricada",
+      "transliteration": null,
+      "translations": { "es": "crujido fuerte", "en": "loud creak", "fr": "fort grincement", "de": "lautes Knarren", "it": "scricchiolio forte", "pt": "rangido forte", "ru": "громкий скрип", "pl": "głośny skrzyp", "ca": "xerricada", "nl": "hard gekraak", "sv": "högt knarr", "no": "høyt knirk", "da": "højt knirken", "fi": "kova narina", "cs": "hlasité vrzání", "ro": "scârțâit puternic", "hu": "hangos recsegés", "el": "δυνατό τρίξιμο", "uk": "гучний скрип", "tr": "yüksek gıcırtı", "eu": "kirrinka handia", "gl": "ruxido forte", "ar": "صرير قوي", "zh": "响吱声", "ja": "大きなきしみ", "ko": "큰 삐걱거림", "hi": "तेज चरमराहट", "he": "חריקה חזקה" },
+      "category": "house",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_033",
+      "word": "xopar-se",
+      "transliteration": null,
+      "translations": { "es": "empaparse", "en": "to get soaked", "fr": "se tremper", "de": "durchnässen", "it": "bagnarsi", "pt": "ensopar-se", "ru": "промокнуть", "pl": "przemoknąć", "ca": "xopar-se", "nl": "doorweken", "sv": "bli genomblöt", "no": "bli gjennomvåt", "da": "blive gennemblødt", "fi": "kastua", "cs": "promočit se", "ro": "a se uda", "hu": "elázni", "el": "μουσκεύομαι", "uk": "промокнути", "tr": "ıslanmak", "eu": "busti", "gl": "mollarse", "ar": "يبتل", "zh": "淋湿", "ja": "びしょ濡れになる", "ko": "흠뻑 젖다", "hi": "भीग जाना", "he": "להירטב" },
+      "category": "nature",
+      "pos": "verb"
+    },
+    {
+      "id": "ca_B2_034",
+      "word": "xarrupada",
+      "transliteration": null,
+      "translations": { "es": "sorbo", "en": "sip", "fr": "gorgée", "de": "Schluck", "it": "sorso", "pt": "gole", "ru": "глоток", "pl": "łyk", "ca": "xarrupada", "nl": "slok", "sv": "klunk", "no": "slurk", "da": "slurk", "fi": "kulauksia", "cs": "doušek", "ro": "înghițitură", "hu": "korty", "el": "γουλιά", "uk": "ковток", "tr": "yudum", "eu": "trago", "gl": "grolo", "ar": "رشفة", "zh": "一口", "ja": "一口", "ko": "한 모금", "hi": "घूँट", "he": "לגימה" },
+      "category": "food",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_035",
+      "word": "xivarrot",
+      "transliteration": null,
+      "translations": { "es": "alboroto", "en": "commotion", "fr": "tapage", "de": "Tumult", "it": "trambusto", "pt": "alvoroço", "ru": "суматоха", "pl": "zamieszanie", "ca": "xivarrot", "nl": "drukte", "sv": "tumult", "no": "tumult", "da": "tumult", "fi": "hälinä", "cs": "rozruch", "ro": "zarvă", "hu": "zűrzavar", "el": "αναστάτωση", "uk": "метушня", "tr": "kargaşa", "eu": "zalaparta", "gl": "balbordo", "ar": "فوضى", "zh": "骚动", "ja": "騒動", "ko": "소동", "hi": "हंगामा", "he": "מהומה" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_036",
+      "word": "xerricar",
+      "transliteration": null,
+      "translations": { "es": "chirriar", "en": "to squeak", "fr": "grincer", "de": "quietschen", "it": "cigolare", "pt": "rangir", "ru": "скрипеть", "pl": "piszczeć", "ca": "xerricar", "nl": "piepen", "sv": "gnissla", "no": "knirke", "da": "knirke", "fi": "narin", "cs": "vrzat", "ro": "a scârțâi", "hu": "nyikorogni", "el": "τρίζω", "uk": "скрипіти", "tr": "gıcırdamak", "eu": "kirrinkatu", "gl": "ruxir", "ar": "يصر", "zh": "吱吱响", "ja": "きしむ", "ko": "삐걱거리다", "hi": "चरमराना", "he": "לחרוק" },
+      "category": "house",
+      "pos": "verb"
+    },
+    {
+      "id": "ca_B2_037",
+      "word": "xarrupaire",
+      "transliteration": null,
+      "translations": { "es": "bebedor empedernido", "en": "heavy drinker", "fr": "buveur invétéré", "de": "Trinker", "it": "bevitore accanito", "pt": "bebedor inveterado", "ru": "заядлый пьяница", "pl": "pijak", "ca": "xarrupaire", "nl": "drinkebroer", "sv": "stordrickare", "no": "stordrikker", "da": "stordrikker", "fi": "juoppo", "cs": "pijan", "ro": "băutor înrăit", "hu": "nagyivó", "el": "μεθύστακας", "uk": "п’яниця", "tr": "aşırı içici", "eu": "edale handia", "gl": "bebedor empedernido", "ar": "شارب مدمن", "zh": "酒鬼", "ja": "大酒飲み", "ko": "술고래", "hi": "पियक्कड़", "he": "שתיין" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_038",
+      "word": "xerricós",
+      "transliteration": null,
+      "translations": { "es": "chirriante", "en": "squeaky", "fr": "grinçant", "de": "quietschend", "it": "cigolante", "pt": "rangente", "ru": "скрипучий", "pl": "skrzypiący", "ca": "xerricós", "nl": "piepend", "sv": "gnisslande", "no": "knirkende", "da": "knirkende", "fi": "narinainen", "cs": "vrzající", "ro": "scârțâitor", "hu": "nyikorgó", "el": "τρίζων", "uk": "скрипучий", "tr": "gıcırtılı", "eu": "kirrinkari", "gl": "ruxidor", "ar": "صرير", "zh": "吱吱作响的", "ja": "きしむ", "ko": "삐걱거리는", "hi": "चरमराहट वाला", "he": "חורק" },
+      "category": "house",
+      "pos": "adjective"
+    },
+    {
+      "id": "ca_B2_039",
+      "word": "xopollada",
+      "transliteration": null,
+      "translations": { "es": "chapoteo", "en": "splashing", "fr": "éclaboussement", "de": "Planschen", "it": "splash", "pt": "chapinhada", "ru": "плескание", "pl": "pluskanie", "ca": "xopollada", "nl": "gespetter", "sv": "plaskande", "no": "plasking", "da": "plasken", "fi": "loiskinta", "cs": "cákání", "ro": "bălăceală", "hu": "pancsolás", "el": "πιτσίλισμα", "uk": "плескіт", "tr": "su sıçratma", "eu": "zipriztin", "gl": "chapoteo", "ar": "خوض في الماء", "zh": "溅水", "ja": "水しぶき", "ko": "물튀김", "hi": "पानी छपछपाना", "he": "השפרצה" },
+      "category": "nature",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_040",
+      "word": "xivarreta",
+      "transliteration": null,
+      "translations": { "es": "fiestecilla", "en": "small party", "fr": "petite fête", "de": "kleine Feier", "it": "festicciola", "pt": "festinha", "ru": "вечеринка", "pl": "mała impreza", "ca": "xivarreta", "nl": "feestje", "sv": "liten fest", "no": "liten fest", "da": "lille fest", "fi": "pikkujuhla", "cs": "malá oslava", "ro": "petrecere mică", "hu": "kis buli", "el": "μικρό πάρτι", "uk": "вечірка", "tr": "küçük parti", "eu": "jai txiki", "gl": "festiña", "ar": "حفلة صغيرة", "zh": "小聚会", "ja": "小さなパーティー", "ko": "작은 파티", "hi": "छोटी पार्टी", "he": "מסיבה קטנה" },
+      "category": "city",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_041",
+      "word": "xerramec",
+      "transliteration": null,
+      "translations": { "es": "charla inútil", "en": "idle talk", "fr": "bavardage inutile", "de": "Geschwätz", "it": "chiacchiere inutili", "pt": "conversa fiada", "ru": "пустая болтовня", "pl": "gadanie", "ca": "xerramec", "nl": "geklets", "sv": "pladder", "no": "sladder", "da": "sladder", "fi": "lörpöttely", "cs": "tlachání", "ro": "flecăreală", "hu": "fecsegés", "el": "φλυαρία", "uk": "балаканина", "tr": "gevezelik", "eu": "berba huts", "gl": "leria", "ar": "ثرثرة", "zh": "闲聊", "ja": "おしゃべり", "ko": "수다", "hi": "बकवास", "he": "קשקוש" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_042",
+      "word": "xoparot",
+      "transliteration": null,
+      "translations": { "es": "aguacero", "en": "downpour", "fr": "averse", "de": "Regenguss", "it": "acquazzone", "pt": "aguaceiro", "ru": "ливень", "pl": "ulewa", "ca": "xoparot", "nl": "stortbui", "sv": "skyfall", "no": "styrtregn", "da": "styrtregn", "fi": "sade", "cs": "průtrž mračen", "ro": "ploi torențiale", "hu": "zápor", "el": "καταιγίδα", "uk": "злива", "tr": "sağanak", "eu": "zaparrada", "gl": "treboada", "ar": "عاصفة مطرية", "zh": "暴雨", "ja": "豪雨", "ko": "폭우", "hi": "मूसलाधार बारिश", "he": "מטר" },
+      "category": "weather",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_043",
+      "word": "xarrupet",
+      "transliteration": null,
+      "translations": { "es": "traguito", "en": "small sip", "fr": "petite gorgée", "de": "kleiner Schluck", "it": "sorsetto", "pt": "golinho", "ru": "маленький глоток", "pl": "łyczek", "ca": "xarrupet", "nl": "slokje", "sv": "liten klunk", "no": "lite slurk", "da": "lille slurk", "fi": "pieni kulaus", "cs": "doušek malý", "ro": "înghițitură mică", "hu": "kortyocska", "el": "γουλίτσα", "uk": "ковточок", "tr": "küçük yudum", "eu": "tragutxo", "gl": "groliño", "ar": "رشفة صغيرة", "zh": "小口", "ja": "小さな一口", "ko": "작은 모금", "hi": "छोटा घूँट", "he": "לגימה קטנה" },
+      "category": "food",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_044",
+      "word": "xivarriada",
+      "transliteration": null,
+      "translations": { "es": "gran jaleo", "en": "big uproar", "fr": "grand vacarme", "de": "großer Lärm", "it": "gran chiasso", "pt": "grande barulho", "ru": "большой шум", "pl": "wielki hałas", "ca": "xivarriada", "nl": "grote herrie", "sv": "stort oväsen", "no": "stor bråk", "da": "stor larm", "fi": "iso melu", "cs": "velký hluk", "ro": "zarvă mare", "hu": "nagy zaj", "el": "μεγάλη φασαρία", "uk": "великий галас", "tr": "büyük gürültü", "eu": "zalaparta handia", "gl": "balbordo grande", "ar": "ضوضاء كبيرة", "zh": "大吵闹", "ja": "大騒ぎ", "ko": "큰 소란", "hi": "बड़ा हंगामा", "he": "מהומה גדולה" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_045",
+      "word": "xoparotada",
+      "transliteration": null,
+      "translations": { "es": "chaparrón fuerte", "en": "heavy downpour", "fr": "forte averse", "de": "starker Regenguss", "it": "forte acquazzone", "pt": "forte aguaceiro", "ru": "сильный ливень", "pl": "silna ulewa", "ca": "xoparotada", "nl": "hevige stortbui", "sv": "kraftigt skyfall", "no": "kraftig styrtregn", "da": "kraftig styrtregn", "fi": "voimakas sade", "cs": "silná průtrž mračen", "ro": "ploaie torențială", "hu": "heves zápor", "el": "ισχυρή καταιγίδα", "uk": "сильна злива", "tr": "şiddetli sağanak", "eu": "zaparrada handia", "gl": "treboada forte", "ar": "عاصفة مطرية قوية", "zh": "强暴雨", "ja": "激しい豪雨", "ko": "강한 폭우", "hi": "तेज मूसलाधार बारिश", "he": "מטר חזק" },
+      "category": "weather",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_046",
+      "word": "xerricor",
+      "transliteration": null,
+      "translations": { "es": "ruido chirriante", "en": "creaking noise", "fr": "bruit grinçant", "de": "knarrendes Geräusch", "it": "rumore cigolante", "pt": "ruído rangente", "ru": "скрипучий звук", "pl": "skrzypiący dźwięk", "ca": "xerricor", "nl": "krakend geluid", "sv": "knarrande ljud", "no": "knirkende lyd", "da": "knirkende lyd", "fi": "narin ääni", "cs": "vrzající zvuk", "ro": "scârțâit", "hu": "nyikorgó hang", "el": "τρίζων ήχος", "uk": "скрипучий звук", "tr": "gıcırtı sesi", "eu": "kirrinka soinua", "gl": "ruxido", "ar": "صوت صرير", "zh": "吱吱声", "ja": "きしみ音", "ko": "삐걱거리는 소리", "hi": "चरमराहट की आवाज़", "he": "צליל חריקה" },
+      "category": "house",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_047",
+      "word": "xopollot",
+      "transliteration": null,
+      "translations": { "es": "charquito", "en": "small puddle", "fr": "petite flaque", "de": "kleine Pfütze", "it": "pozzangherina", "pt": "poça pequena", "ru": "маленькая лужа", "pl": "kałużka", "ca": "xopollot", "nl": "klein plas", "sv": "liten pöl", "no": "lite dam", "da": "lille vandpyt", "fi": "pieni lätäkkö", "cs": "malá louže", "ro": "baltă mică", "hu": "kis pocsolya", "el": "μικρή λακκούβα", "uk": "маленька калюжа", "tr": "küçük su birikintisi", "eu": "putzutxo", "gl": "poza pequena", "ar": "بركة صغيرة", "zh": "小水坑", "ja": "小さな水たまり", "ko": "작은 웅덩이", "hi": "छोटा गड्ढा", "he": "שלולית קטנה" },
+      "category": "nature",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_048",
+      "word": "esglai",
+      "transliteration": null,
+      "translations": { "es": "susto", "en": "fright", "fr": "frayeur", "de": "Schreck", "it": "spavento", "pt": "susto", "ru": "испуг", "pl": "strach", "ca": "esglai", "nl": "schrik", "sv": "skrämsel", "no": "skrekk", "da": "forskrækkelse", "fi": "säikähdys", "cs": "vyděšení", "ro": "sperietură", "hu": "ijedtség", "el": "φόβος", "uk": "переляк", "tr": "korku", "eu": "beldur", "gl": "susto", "ar": "فزع", "zh": "惊吓", "ja": "驚き", "ko": "놀람", "hi": "डर", "he": "בהלה" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_049",
+      "word": "esponerós",
+      "transliteration": null,
+      "translations": { "es": "frondoso", "en": "lush", "fr": "luxuriant", "de": "üppig", "it": "rigoglioso", "pt": "frondoso", "ru": "пышный", "pl": "bujny", "ca": "esponerós", "nl": "weelderig", "sv": "frodig", "no": "frodig", "da": "frodig", "fi": "rehevä", "cs": "bujný", "ro": "frunzos", "hu": "dús", "el": "πλούσιος", "uk": "пишний", "tr": "gür", "eu": "oparo", "gl": "frondoso", "ar": "كثيف", "zh": "茂盛的", "ja": "繁茂した", "ko": "무성한", "hi": "घना", "he": "שופע" },
+      "category": "nature",
+      "pos": "adjective"
+    },
+    {
+      "id": "ca_B2_050",
+      "word": "xivarri",
+      "transliteration": null,
+      "translations": { "es": "jaleo", "en": "uproar", "fr": "vacarme", "de": "Lärm", "it": "chiasso", "pt": "barulho", "ru": "шум", "pl": "hałas", "ca": "xivarri", "nl": "herrie", "sv": "oväsen", "no": "bråk", "da": "larm", "fi": "melu", "cs": "hluk", "ro": "zarvă", "hu": "zaj", "el": "φασαρία", "uk": "галас", "tr": "gürültü", "eu": "zalaparta", "gl": "barullo", "ar": "ضوضاء", "zh": "喧闹", "ja": "騒ぎ", "ko": "소란", "hi": "कोलाहल", "he": "מהומה" },
+      "category": "emotions",
+      "pos": "noun"
+    },
+    {
+      "id": "ca_B2_051",
+      "word": "xerrac",
+      "transliteration": null,
+      "translations": { "es": "serrucho", "en": "saw", "fr": "scie", "de": "Säge", "it": "sega", "pt": "serrote", "ru": "пила", "pl": "piła", "ca": "xerrac", "nl": "zaag", "sv": "såg", "no": "sag", "da": "sav", "fi": "saha", "cs": "pila", "ro": "ferăstrău", "hu": "fűrész", "el": "πριόνι", "uk": "пила", "tr": "testere", "eu": "zerra", "gl": "serra", "ar": "منشار", "zh": "锯子", "ja": "のこぎり", "ko": "톱", "hi": "आरी", "he": "מסור" },
+      "category": "house",
+      "pos": "noun"
+    },
+  ]
+}
