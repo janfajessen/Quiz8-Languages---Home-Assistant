@@ -3,7 +3,7 @@
 
 # Quiz8 Languages — Home Assistant Integration
 
-<img src="https://github.com/janfajessen/Quiz8-Languages---Home-Assistant/blob/c52439777b326e7db3e634f40903392aa059f3ba/custom_components/quiz8_languages/brand/icon%402x.png" width="250"/>
+<img src="https://github.com/janfajessen/Quiz8-Languages---Home-Assistant/blob/c52439777b326e7db3e634f40903392aa059f3ba/custom_components/quiz8_languages/brand/icon%402x.png" width="25%"/>
 
 ![Version](https://img.shields.io/badge/version-1.5.28-blue?style=for-the-badge)
 ![HA](https://img.shields.io/badge/Home%20Assistant-2024.1+-orange?style=for-the-badge&logo=home-assistant)
@@ -92,6 +92,9 @@ Languages with non-Latin scripts (`ru`, `el`, `uk`, `ar`, `zh`, `ja`, `ko`, `hi`
 2. Restart Home Assistant.
 
 3. Go to **Settings → Integrations → Add Integration** and search for **Quiz8 Languages**.
+
+<img src="https://github.com/janfajessen/Quiz8-Languages---Home-Assistant/blob/c52439777b326e7db3e634f40903392aa059f3ba/custom_components/quiz8_languages/brand/icon%402x.png" width="100"/>
+
 
 ### HACS (coming soon)
 
@@ -189,6 +192,23 @@ The `language_rounds` sensor is the data source for the companion Lovelace card.
 
 ---
 
+
+---
+
+
+*If this integration is useful to you, consider giving it a ⭐ on GitHub.*
+Or consider supporting development!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)
+](https://www.buymeacoffee.com/janfajessen) 
+[![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/janfajessen)
+</div>
+
+
 ## License
 
+
 MIT License — see [LICENSE](LICENSE) for details.
+
+
+© [@janfajessen](https://github.com/janfajessen)
