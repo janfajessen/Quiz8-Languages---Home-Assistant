@@ -1,0 +1,50 @@
+register_answer:
+  name: Register Answer
+  description: Registra si una respuesta fue correcta o no.
+  fields:
+    language:
+      name: Language
+      description: Código del idioma (ej. 'it', 'pt')
+      required: true
+      selector:
+        text:
+    word_id:
+      name: Word ID
+      description: Identificador de la palabra
+      required: true
+      selector:
+        text:
+    correct:
+      name: Correct
+      description: true si fue correcta, false si no
+      required: true
+      selector:
+        boolean:
+
+complete_round:
+  name: Complete Round
+  description: Completa la ronda actual y avanza.
+  fields:
+    language:
+      name: Language
+      description: Código del idioma
+      required: true
+      selector:
+        text:
+
+set_active_language:
+  name: Set Active Language
+  description: Cambia el idioma activo y actualiza el sensor de rondas.
+  fields:
+    language:
+      name: Language
+      description: Código del idioma
+      required: true
+      selector:
+        text:
+
+mark_day_played:
+  name: Mark Day Played
+  description: Marca el día como jugado para mantener la racha.
+  fields: {}
+  

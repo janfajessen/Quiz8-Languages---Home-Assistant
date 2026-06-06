@@ -1,0 +1,103 @@
+{
+  "title": "Quiz8 Languages",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Select 8 languages to learn",
+        "description": "Choose exactly {count} languages from the {total} available. The right column will show translations in your Home Assistant UI language.",
+        "data": {
+          "selected_languages": "Languages to learn"
+        }
+      },
+      "level": {
+        "title": "Level for {language} ({code})",
+        "description": "Select your CEFR level for {language}. Language {index} of {total}.\n\nRecommended starting level: **{recommended}**",
+        "data": {
+          "level": "CEFR Level"
+        }
+      }
+    },
+    "error": {
+      "select_exactly_8": "You must select exactly 8 languages.",
+      "vocab_not_found": "Vocabulary file not found for this language/level combination."
+    },
+    "abort": {
+      "already_configured": "Quiz8 Languages is already configured."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Reconfigure languages",
+        "description": "Choose exactly {count} languages. Your progress will be preserved.",
+        "data": {
+          "selected_languages": "Languages to learn"
+        }
+      },
+      "level": {
+        "title": "Level for {language} ({code})",
+        "description": "Select your CEFR level for {language}. Language {index} of {total}.\n\nRecommended starting level: **{recommended}**",
+        "data": {
+          "level": "CEFR Level"
+        }
+      }
+    },
+    "error": {
+      "select_exactly_8": "You must select exactly 8 languages."
+    }
+  },
+  "services": {
+    "register_answer": {
+      "name": "Register Answer",
+      "description": "Register a correct or incorrect answer for a word.",
+      "fields": {
+        "language": {
+          "name": "Language",
+          "description": "Language code (e.g. 'de', 'fr')"
+        },
+        "word_id": {
+          "name": "Word ID",
+          "description": "The word ID from the vocabulary (e.g. 'de_A1_001')"
+        },
+        "correct": {
+          "name": "Correct",
+          "description": "Whether the answer was correct (true/false)"
+        }
+      }
+    },
+    "complete_round": {
+      "name": "Complete Round",
+      "description": "Mark the current 5-word round as complete and advance to the next.",
+      "fields": {
+        "language": {
+          "name": "Language",
+          "description": "Language code (e.g. 'de', 'fr')"
+        }
+      }
+    },
+    "set_active_language": {
+      "name": "Set Active Language",
+      "description": "Switch the active language being practiced.",
+      "fields": {
+        "language": {
+          "name": "Language",
+          "description": "Language code (e.g. 'de', 'fr')"
+        }
+      }
+    },
+    "mark_day_played": {
+      "name": "Mark Day Played",
+      "description": "Mark today as a played day to maintain the daily streak."
+    },
+    "get_current_round": {
+      "name": "Get Current Round",
+      "description": "Fires a quiz8_languages_round_data event with the current round's word pairs.",
+      "fields": {
+        "language": {
+          "name": "Language",
+          "description": "Language code (e.g. 'de', 'fr')"
+        }
+      }
+    }
+  }
+}
